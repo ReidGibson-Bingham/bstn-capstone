@@ -57,7 +57,7 @@ The target users for HapiCapi are online shoppers in North America who are looki
 
 ### Mockups
 
-![Terminal Interface] https://i.imgur.com/Q0TYbbg.png
+![https://i.imgur.com/Q0TYbbg.png] https://i.imgur.com/Q0TYbbg.png
 
 ### Data
 
