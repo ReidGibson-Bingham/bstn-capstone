@@ -40,10 +40,10 @@ The target users for HapiCapi are online shoppers in North America who are looki
 
 - Frontend: React (HTML, CSS, JavaScript)
 - Backend: Node.js, Express
-- Database: Firebase (MongoDB for additional storage)
+- Database: Firebase or MySQL (Mysql workbench)
 - Web Crawling: Node Cheerio
 - Sorting Algorithm: Merge Sort or Quick Sort
-- Authentication: Firebase Authentication
+
 
 ### APIs
 
@@ -105,6 +105,9 @@ Implement user authentication using Firebase Authentication.
 - Conduct final checks and ensure everything is working smoothly.
 
 ## Nice-to-haves
+
+0. **authentication**
+   - Authentication: Firebase Authentication or JWT authentication
 
 1. **Payment Processor**
     - Allow users to pay for products on the site rather than having to visit the Japanese store.
