@@ -86,13 +86,14 @@ preferences.
 - Set up project structure and version control.
 - Develop web crawling functionality with puppeteer.
 - Implement product search and display, which is connected to puppeteer
-- Create terminal-like interface using 
-- Set up server and database.
+**week 2**
+- Create terminal-like interface using xterm
+- Set up server, database and all api calls
 - Implement sorting algorithm for deal sorting.
-**Week 2**
+**Week 3**
 - Conduct thorough testing.
 - Optimize performance and fix any bugs.
-- Deploy the app to a hosting service.
+- (extra stretch)Deploy the app to a hosting service.
 - Conduct final checks and ensure everything is working smoothly.
 
 ## Nice-to-haves
