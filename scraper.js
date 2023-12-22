@@ -1,5 +1,5 @@
-const defaultHeight = 600;
-const defaultWidth = 800;
+const pageHeight = 600;
+const pageWidth = 800;
 
 const puppeteer = require('puppeteer');
 
@@ -16,7 +16,7 @@ const cart = [];
 
     // await page.goto(misterFreedomSearch('shirt'));
     await page.goto(misterFreedomSearch('shirt'), { waitUntil: 'domcontentloaded' });
-    await page.setViewport({ width: 1280, height: 800 });
+    await page.setViewport({ width: pageWidth, height: pageHeight });
 
     // Wait for the product elements to be available
     await page.waitForSelector('.ProductList');
