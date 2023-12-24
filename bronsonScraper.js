@@ -18,7 +18,7 @@ const cart = [];
 
     for (let i = 1; i < 2; i++) {
 
-        await page.goto(bronsonMFGSearch('peacoat', i), { waitUntil: 'domcontentloaded' });
+        await page.goto(bronsonMFGSearch('blouse', i), { waitUntil: 'domcontentloaded' });
         await page.setViewport({ width: pageWidth, height: pageHeight });
 
         // Wait for the product elements to be available
@@ -62,5 +62,18 @@ const cart = [];
     }
 
     console.log("the products array: ", cart);
+    console.log(`
+     /$$   /$$                     /$$  /$$$$$$                      /$$
+    | $$  | $$                    |__/ /$$__  $$                    |__/
+    | $$  | $$  /$$$$$$   /$$$$$$  /$$| $$  \__/  /$$$$$$   /$$$$$$  /$$
+    | $$$$$$$$ |____  $$ /$$__  $$| $$| $$       |____  $$ /$$__  $$| $$
+    | $$__  $$  /$$$$$$$| $$  \ $$| $$| $$        /$$$$$$$| $$  \ $$| $$
+    | $$  | $$ /$$__  $$| $$  | $$| $$| $$    $$ /$$__  $$| $$  | $$| $$
+    | $$  | $$|  $$$$$$$| $$$$$$$/| $$|  $$$$$$/|  $$$$$$$| $$$$$$$/| $$
+    |__/  |__/ \_______/| $$____/ |__/ \______/  \_______/| $$____/ |__/
+                        | $$                              | $$          
+                        | $$                              | $$          
+                        |__/                              |__/         
+    `)
 
 })();
