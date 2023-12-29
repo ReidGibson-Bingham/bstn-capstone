@@ -6,10 +6,14 @@ const cors = require("cors");
 // const inventories = require('./routes/inventoryRoutes');
 
 // to do:
-//  write scrape DATA to a JSON File
-// input that JSON file as Seed data
-// create scrapers for all products
-// possibly clean data (remove duplicates) This might not have to be done if we scrape and post all products to the database rather than make multiple queries to scrape and post
+//[x]  write scrape DATA to a JSON File
+//[] for scraper, ensure you click on each item and take the url and description
+//[] clean/format data (remove duplicates) This might not have to be done if we scrape and post all products to the database rather than make multiple queries to scrape and post
+//[] input that JSON file as Seed data
+//[] create scrapers for all products
+//[] create api endpoints. 
+//[] create user table
+//[] host local static image files on my backend
 
 
 

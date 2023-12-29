@@ -31,13 +31,14 @@ const cart = [];
 
                 const name = element.querySelector('.product-thumbnail__title').textContent.trim();
                 const price = element.querySelector('.product-thumbnail__price').textContent.trim();
+                const url = `https://bronsonshop.com/${element.querySelector('a').getAttribute('href')}`;
             
                 // Get the data-srcset attribute from the source element
                 const image = JSON.stringify(element.querySelector('img.transition--fade-in').getAttribute('data-src'));
                 const description = `brand new ${name}`
 
                 if (image !== 'null') {
-                    return { name, price, image, description, category: "clothes" };
+                    return { name, price, image, description, category: "clothes", url };
                 } else {
                     return null;
                 }
@@ -61,6 +62,7 @@ const cart = [];
 
     console.log("the products array: ", cart);
     console.log(`
+
      /$$   /$$                     /$$  /$$$$$$                      /$$
     | $$  | $$                    |__/ /$$__  $$                    |__/
     | $$  | $$  /$$$$$$   /$$$$$$  /$$| $$  \__/  /$$$$$$   /$$$$$$  /$$

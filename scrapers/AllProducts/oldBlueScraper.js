@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const pageHeight = 600;
 const pageWidth = 800;
-const productsPath = "./../../jsonData/products.JSON";
+const productsPath = "./../../jsonData/oldBlueproducts.JSON";
 
 const oldBlueAllURL = (pageNum) => {
     return `https://oldblueco.net/dry-goods/page/${pageNum}/`;
@@ -28,16 +28,16 @@ const cart = [];
         // Get all product names
         const products = await page.$$eval('.product-inner', (elements) => {
             
-            return elements.map((element) => {
+            return elements.map( (element) => {
 
                 const name = element.querySelector('.cd').textContent.trim();
                 const price = element.querySelector('.price').textContent.trim();
+                const url = element.querySelector('a').getAttribute('href')
             
-                // Get the data-srcset attribute from the source element
                 const image = JSON.stringify(element.querySelector('img.wp-image-flip').getAttribute('srcset'));
 
                 if (image !== 'null') {
-                    return { name, price, image, categor: "clothes" };
+                    return { id, name, price, image, category: "clothes", brand: 'Old Blue Co', url};
                 } else {
                     return null;
                 }
@@ -55,6 +55,16 @@ const cart = [];
         cart.push(products);
 
     }
+
+    for (const product of cart.flat()) {
+        await page.goto(product.url, { waitUntil: 'domcontentloaded' });
+    
+        const sizingText = await page.$$eval('.table', (paragraphs) => {
+            return paragraphs.map((p) => p.textContent.trim());
+        });
+    
+        product.sizing = sizingText;
+    }
     
     console.log('Products:', cart);
 
@@ -66,3 +76,4 @@ const cart = [];
     }
 
 })();
+
