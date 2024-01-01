@@ -58,10 +58,7 @@ const cart = [];
 
     for (const product of cart.flat()) {
         await page.goto(product.itemURL, { waitUntil: 'domcontentloaded' });
-
-        // await page.waitForSelector('.attachment-shop_single');
-    
-        // const imageURL = element.querySelector('img.attachment-shop_single.size-shop_single.wp-post-image.wp-post-image').getAttribute('src');
+        
         const imageURL = await page.$eval('img.attachment-shop_single', img => img.getAttribute('src'));
     
         product.imageURL = imageURL;
