@@ -33,19 +33,14 @@ const cart = [];
                 const title = element.querySelector('.cd').textContent.trim();
                 const price = element.querySelector('.price').textContent.trim();
                 const itemURL = element.querySelector('a').getAttribute('href')
-                const imageURL = element.querySelector('img.wp-image-flip').getAttribute('srcset');
 
-                if (imageURL !== 'null') {
-                    return {
-                        brand: 'Old Blue Co',
-                        title,
-                        price,
-                        imageURL,
-                        itemURL
-                    };
-                } else {
-                    return null;
-                }
+                
+                return {
+                    brand: 'Old Blue Co',
+                    title,
+                    price,
+                    itemURL
+                };
 
             }).filter((product) => product !== null);;
 
@@ -63,19 +58,20 @@ const cart = [];
 
     for (const product of cart.flat()) {
         await page.goto(product.itemURL, { waitUntil: 'domcontentloaded' });
+
+        // await page.waitForSelector('.attachment-shop_single');
     
-        const sizingText = await page.$$eval('.table', (paragraphs) => {
-            return paragraphs.map((p) => p.textContent.trim());
-        });
+        // const imageURL = element.querySelector('img.attachment-shop_single.size-shop_single.wp-post-image.wp-post-image').getAttribute('src');
+        const imageURL = await page.$eval('img.attachment-shop_single', img => img.getAttribute('src'));
     
-        product.sizing = sizingText;
+        product.imageURL = imageURL;
     }
     
     console.log('Products:', cart);
 
     try {
-        fs.writeFileSync(productsPath, JSON.stringify(cart.flat()));
-        console.log('Products data has been written to products.json');
+        fs.writeFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
+        console.log('Products data has been written to products.js');
     } catch (error) {
         console.error('Error writing to file:', error);
     }
