@@ -4,15 +4,16 @@
  */
 exports.up = function (knex) {
     return knex.schema.createTable('products', (table) => {
-      table.increments('id').primary();
-      table.string('category').notNullable();
-      table.string('brand').notNullable();
-      table.string('description').notNullable();
-      table.string('title').notNullable();
-      table.decimal('price', 10, 2).notNullable(); // Assuming a decimal type for price, adjust as needed
-      table.string('imageURL').notNullable();
-      table.timestamp('created_at').defaultTo(knex.fn.now());
-      table.timestamp('updated_at').defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
+        table.increments('id').primary();
+        table.string('brand').notNullable();
+        table.string('title').notNullable();
+        table.string('price').notNullable();
+        table.string('imageURL').notNullable();
+        table.string('itemURL').notNullable();
+        table.json('sizing').nullable(); //json allows a filed to be either a string or an array
+        table.json('description').nullable();
+        table.timestamp('created_at').defaultTo(knex.fn.now());
+        table.timestamp('updated_at').defaultTo(knex.raw('CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP'));
     });
   };
   

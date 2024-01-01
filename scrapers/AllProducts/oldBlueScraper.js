@@ -30,14 +30,19 @@ const cart = [];
             
             return elements.map( (element) => {
 
-                const name = element.querySelector('.cd').textContent.trim();
+                const title = element.querySelector('.cd').textContent.trim();
                 const price = element.querySelector('.price').textContent.trim();
-                const url = element.querySelector('a').getAttribute('href')
-            
-                const image = JSON.stringify(element.querySelector('img.wp-image-flip').getAttribute('srcset'));
+                const itemURL = element.querySelector('a').getAttribute('href')
+                const imageURL = element.querySelector('img.wp-image-flip').getAttribute('srcset');
 
-                if (image !== 'null') {
-                    return { id, name, price, image, category: "clothes", brand: 'Old Blue Co', url};
+                if (imageURL !== 'null') {
+                    return {
+                        brand: 'Old Blue Co',
+                        title,
+                        price,
+                        imageURL,
+                        itemURL
+                    };
                 } else {
                     return null;
                 }
@@ -57,7 +62,7 @@ const cart = [];
     }
 
     for (const product of cart.flat()) {
-        await page.goto(product.url, { waitUntil: 'domcontentloaded' });
+        await page.goto(product.itemURL, { waitUntil: 'domcontentloaded' });
     
         const sizingText = await page.$$eval('.table', (paragraphs) => {
             return paragraphs.map((p) => p.textContent.trim());
@@ -69,7 +74,7 @@ const cart = [];
     console.log('Products:', cart);
 
     try {
-        fs.writeFileSync(productsPath, JSON.stringify(cart, null, 2));
+        fs.writeFileSync(productsPath, JSON.stringify(cart.flat()));
         console.log('Products data has been written to products.json');
     } catch (error) {
         console.error('Error writing to file:', error);

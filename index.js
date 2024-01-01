@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 require("dotenv").config();
 const cors = require("cors");
+
 // const warehouses = require('./routes/warehouseRoutes');
 // const inventories = require('./routes/inventoryRoutes');
 
@@ -14,8 +15,7 @@ const cors = require("cors");
 //[] create api endpoints. 
 //[] create user table
 //[] host local static image files on my backend
-
-
+//[] use the google translate api to translate some of the japanese text to english
 
 const PORT = process.env.PORT || 5050;
 
@@ -24,6 +24,8 @@ const PORT = process.env.PORT || 5050;
 // app.use('/', warehouses);
 // app.use('/', inventories);
 
+
 app.listen(PORT, () => {
   console.log(`running at http://localhost:${PORT}`);
+  getData();
 });
