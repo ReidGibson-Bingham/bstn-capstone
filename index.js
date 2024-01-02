@@ -2,10 +2,13 @@ const express = require('express');
 const app = express();
 require("dotenv").config();
 const cors = require("cors");
+const path = require('path');
 
 // const warehouses = require('./routes/warehouseRoutes');
 // const inventories = require('./routes/inventoryRoutes');
 const products = require('./routes/productRoutes');
+
+app.use('/images', express.static(path.join(__dirname, 'images')));
 
 // to do:
 //[x]  write scrape DATA to a JSON File

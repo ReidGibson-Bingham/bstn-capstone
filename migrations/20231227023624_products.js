@@ -8,7 +8,7 @@ exports.up = function (knex) {
         table.string('brand').notNullable();
         table.string('title').notNullable();
         table.string('price').notNullable();
-        table.string('imageURL').notNullable();
+        table.string('imagePath').notNullable();
         table.string('itemURL').notNullable();
         table.json('sizing').nullable(); //json allows a filed to be either a string or an array
         table.json('description').nullable();
