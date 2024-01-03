@@ -3,10 +3,10 @@ const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
 
-const pageHeight = 600;
-const pageWidth = 800;
 const productsPath = "./../../jsonData/oldBlueproducts.JSON";
 const imagesPath = "./../../images/oldBlue/";
+const pageHeight = 600;
+const pageWidth = 800;
 
 const oldBlueAllURL = (pageNum) => {
     return `https://oldblueco.net/dry-goods/page/${pageNum}/`;
@@ -95,7 +95,7 @@ const downloadImage = async (url, destPath) => {
 
     try {
         fs.writeFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
-        console.log('Products data has been written to products.js');
+        console.log('Products data has been written to products file');
     } catch (error) {
         console.error('Error writing to file:', error);
     }
