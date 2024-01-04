@@ -34,7 +34,7 @@ const downloadImage = async (url, destPath) => {
     const browser = await puppeteer.launch({ headless: 'new' });
     const page = await browser.newPage();
 
-    for (let i = 1; i < 5; i++) {
+    for (let i = 10; i < 15; i++) {
 
         await page.goto(barnStormerAllURL(i), { waitUntil: 'domcontentloaded' });
         await page.setViewport({ width: pageWidth, height: pageHeight });
@@ -99,7 +99,7 @@ const downloadImage = async (url, destPath) => {
     console.log("the products array: ", cart);
 
     try {
-        fs.writeFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
+        fs.appendFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
         console.log('Products data has been written to products file');
     } catch (error) {
         console.error('Error writing to file:', error);

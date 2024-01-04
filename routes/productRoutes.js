@@ -6,4 +6,7 @@ router
     .route('/api/products')
     .get(productController.getProducts)
 
+router
+    .route('/api/products/:productId')
+
 module.exports = router;
