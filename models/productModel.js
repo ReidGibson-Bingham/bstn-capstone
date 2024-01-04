@@ -9,6 +9,16 @@ const getProducts = async () => {
     }
 } 
 
+const getProductById = async (id) => {
+  try {
+    const product = await knex('products').where({ id }).first();
+    return product;
+  } catch (err) {
+    throw err;
+  }
+}
+
 module.exports = {
     getProducts,
+    getProductById,
 };

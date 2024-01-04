@@ -13,6 +13,21 @@ const getProducts = async (_req, res) => {
     }
 }
 
+const getProduct = async (req, res) => {
+    const id = req.params.productId;
+    try {
+        const product = await productModel.getProductById(id);
+        if (product) {
+            res.status(200).json(product);
+        } else {
+            res.status(404).send('product not found');
+        }
+    } catch (err) {
+        res.status(500).send(`Error retrieveing product: ${err}`);
+    }
+}
+
 module.exports = {
     getProducts,
+    getProduct
 };

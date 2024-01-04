@@ -8,5 +8,6 @@ router
 
 router
     .route('/api/products/:productId')
+    .get(productController.getProduct)
 
 module.exports = router;
