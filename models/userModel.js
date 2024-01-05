@@ -40,8 +40,31 @@ const saveFavourite = async (favouriteId) => {
     }
 };
 
+const deleteFavourite = async (favouriteId) => {
+    try {
+        const user = await knex('users').first();
+
+        if (user) {
+            const updatedFavourites = user.favourites.filter(id => id !== favouriteId);
+
+            // Update the user's favorites column
+            await knex('users')
+                .where('id', user.id)
+                .update({
+                    favourites: knex.raw('JSON_SET(??, "$", ?)', ['favourites', knex.raw('JSON_ARRAY(?)', [updatedFavourites])])
+                });
+
+        } else {
+            throw new Error('No users found');
+        }
+    } catch (err) {
+        throw err;
+    }
+}
+
 module.exports = {
     authenticateUser, 
     getFavourites, 
-    saveFavourite
+    saveFavourite, 
+    deleteFavourite
 }

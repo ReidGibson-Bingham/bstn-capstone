@@ -10,5 +10,6 @@ router
     .route('/api/users/favourites')
     .get(userController.getFavouriteIds)
     .post(userController.postFavouriteId)
+    .delete(userController.deleteFavouriteId)
 
 module.exports = router;

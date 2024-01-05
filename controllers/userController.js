@@ -36,7 +36,6 @@ const getFavouriteIds = async (_req, res) => {
 
 const postFavouriteId = async (req, res) => {
     const { favouriteId } = req.body;
-
     try {
         // Check if favouriteId already exists in userFavouriteIds
         const existingFavourites = await userModel.getFavourites();
@@ -53,8 +52,24 @@ const postFavouriteId = async (req, res) => {
     }
 }
 
+const deleteFavouriteId = async (req, res) => {
+    const { favouriteId } = req.body;
+    try {
+        // Call the model function to delete the favorite
+        await userModel.deleteFavourite(favouriteId);
+
+        // Respond with a success message or any other relevant information
+        res.status(200).json({ success: true, message: 'Favorite deleted successfully' });
+    } catch (err) {
+        // Handle errors and respond with an error message
+        console.error(err);
+        res.status(500).json({ success: false, message: 'Internal Server Error' });
+    }
+}
+
 module.exports = {
     authenticateUser, 
     getFavouriteIds,
-    postFavouriteId
+    postFavouriteId,
+    deleteFavouriteId
 }
