@@ -1,15 +1,33 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const axios = require('axios');
+const path = require('path');
 
+const productsPath = "./../../jsonData/oldBlueproducts.JSON";
+const imagesPath = "./../../images/oldBlue/";
 const pageHeight = 600;
 const pageWidth = 800;
-const productsPath = "./../../jsonData/oldBlueproducts.JSON";
 
 const oldBlueAllURL = (pageNum) => {
     return `https://oldblueco.net/dry-goods/page/${pageNum}/`;
 }
 
 const cart = [];
+
+const downloadImage = async (url, destPath) => {
+    const response = await axios({
+        method: 'get',
+        url: url,
+        responseType: 'stream',
+    });
+
+    response.data.pipe(fs.createWriteStream(destPath));
+
+    return new Promise((resolve, reject) => {
+        response.data.on('end', () => resolve());
+        response.data.on('error', (err) => reject(err));
+    });
+};
 
 (async () => {
 
@@ -59,19 +77,25 @@ const cart = [];
     for (const product of cart.flat()) {
         await page.goto(product.itemURL, { waitUntil: 'domcontentloaded' });
 
-        // await page.waitForSelector('.attachment-shop_single');
-    
-        // const imageURL = element.querySelector('img.attachment-shop_single.size-shop_single.wp-post-image.wp-post-image').getAttribute('src');
         const imageURL = await page.$eval('img.attachment-shop_single', img => img.getAttribute('src'));
     
-        product.imageURL = imageURL;
+        const imageFileName = path.basename(imageURL);
+        const baseURL = 'http://localhost:8080/';
+        const imagePath = path.join(imagesPath, imageFileName);
+        const fullImageURL = baseURL + imagePath;
+
+        // Download the image
+        await downloadImage(imageURL, imagePath);
+
+        // Store the local path in the product object
+        product.imagePath = fullImageURL;
     }
     
     console.log('Products:', cart);
 
     try {
         fs.writeFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
-        console.log('Products data has been written to products.js');
+        console.log('Products data has been written to products file');
     } catch (error) {
         console.error('Error writing to file:', error);
     }

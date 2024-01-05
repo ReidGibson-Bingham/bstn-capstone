@@ -1,22 +1,40 @@
+const puppeteer = require('puppeteer');
+const fs = require('fs');
+const axios = require('axios');
+const path = require('path');
+
+const productsPath = "./../../jsonData/barnStormerProducts.JSON";
+const imagesPath = "./../../images/barnStormer/";
 const pageHeight = 600;
 const pageWidth = 800;
 
-const puppeteer = require('puppeteer');
-
 const barnStormerAllURL = (pageNum) => {
-
     return `https://www.barnstormer.jp/view/category/all_items?page=${pageNum}`;
-
 }
 
 const cart = [];
+
+const downloadImage = async (url, destPath) => {
+    const response = await axios({
+        method: 'get',
+        url: url,
+        responseType: 'stream',
+    });
+
+    response.data.pipe(fs.createWriteStream(destPath));
+
+    return new Promise((resolve, reject) => {
+        response.data.on('end', () => resolve());
+        response.data.on('error', (err) => reject(err));
+    });
+};
 
 (async () => {
 
     const browser = await puppeteer.launch({ headless: 'new' });
     const page = await browser.newPage();
 
-    for (let i = 7; i < 9; i++) {
+    for (let i = 10; i < 15; i++) {
 
         await page.goto(barnStormerAllURL(i), { waitUntil: 'domcontentloaded' });
         await page.setViewport({ width: pageWidth, height: pageHeight });
@@ -29,18 +47,15 @@ const cart = [];
             
             return elements.map((element) => {
 
-                const name = JSON.stringify(element.querySelector('.item-list-name').innerHTML);
+                const title = JSON.stringify(element.querySelector('.item-list-name').innerHTML);
                 const price = element.querySelector('.item-list-price').innerHTML;
-                const url = `https://www.barnstormer.jp/${element.querySelector('a').getAttribute('href')}`;
+                const itemURL = `https://www.barnstormer.jp/${element.querySelector('a').getAttribute('href')}`;
             
                 // Get the data-srcset attribute from the source element
-                const image = JSON.stringify(element.querySelector('img').getAttribute('src'));
+                const imageURL = element.querySelector('img').getAttribute('src');
 
-                if (image !== 'null') {
-                    return { name, price, image, category: "clothes", url};
-                } else {
-                    return null;
-                }
+                return { title, price, itemURL, imagePath: imageURL };
+                
 
             }).filter((product) => {
                 return product !== null;
@@ -60,19 +75,34 @@ const cart = [];
     }
 
     for (const product of cart.flat()) {
-        await page.goto(product.url, { waitUntil: 'domcontentloaded' });
+        await page.goto(product.itemURL, { waitUntil: 'domcontentloaded' });
+
+        const imageFileName = path.basename(product.imagePath);
+        const baseURL = 'http://localhost:8080/';
+        const imagePath = path.join(imagesPath, imageFileName);
+        const fullImageURL = baseURL + imagePath;
+
+        await downloadImage(product.imagePath, imagePath);
 
         // Use page.$eval to get the sizing text
         try {
-            const sizingText = await page.$eval('.item-description', (element) => {
+            const brand = await page.$eval('.category-name', (element) => {
                 return element.textContent.trim();
             });
-            product.sizing = sizingText;
+            product.brand = brand;
+            product.imagePath = fullImageURL;
         } catch (error) {
             console.error('Error getting sizing text:', error.message);
         }
     }
 
     console.log("the products array: ", cart);
+
+    try {
+        fs.appendFileSync(productsPath, JSON.stringify(cart.flat(), null, 2));
+        console.log('Products data has been written to products file');
+    } catch (error) {
+        console.error('Error writing to file:', error);
+    }
 
 })();

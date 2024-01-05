@@ -2,9 +2,14 @@ const express = require('express');
 const app = express();
 require("dotenv").config();
 const cors = require("cors");
+const path = require('path');
 
 // const warehouses = require('./routes/warehouseRoutes');
 // const inventories = require('./routes/inventoryRoutes');
+const products = require('./routes/productRoutes');
+const users = require('./routes/userRoutes');
+
+app.use('/images', express.static(path.join(__dirname, 'images')));
 
 // to do:
 //[x]  write scrape DATA to a JSON File
@@ -19,13 +24,13 @@ const cors = require("cors");
 
 const PORT = process.env.PORT || 5050;
 
-// app.use(cors());
-// app.use(express.json());
+app.use(cors());
+app.use(express.json());
 // app.use('/', warehouses);
-// app.use('/', inventories);
+app.use('/', products);
+app.use('/', users);
 
 
 app.listen(PORT, () => {
   console.log(`running at http://localhost:${PORT}`);
-  getData();
 });
