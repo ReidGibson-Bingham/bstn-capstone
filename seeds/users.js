@@ -12,7 +12,7 @@ exports.seed = async function(knex) {
             username: 'Brainstation Is-Cool',
             email: 'BrainstationIsCool@gmail.com',
             password: 'brainstationiscool', // You should use a hashed password in a real application
-            favorites: JSON.stringify([1, 3, 5]) // Example product ids in favorites
+            favourites: JSON.stringify([1, 3, 5]) // Example product ids in favorites
         },
     ]);
 };

@@ -6,4 +6,9 @@ router
     .route('/api/users')
     .post(userController.authenticateUser)
 
+router
+    .route('/api/users/favourites')
+    .get(userController.getFavouriteIds)
+    .post(userController.postFavouriteId)
+
 module.exports = router;
