@@ -46,7 +46,7 @@ const postFavouriteId = async (req, res) => {
         } else {
             // If the favouriteId doesn't exist, save it
             const newFavourite = await userModel.saveFavourite(favouriteId);
-            res.status(201).json(newFavourite);
+            res.status(201).send(`successfully posted a new favourite id`);
         }
     } catch (err) {
         res.status(500).send(`Error posting Favourite id: ${err}`);
