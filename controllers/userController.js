@@ -45,7 +45,7 @@ const postFavouriteId = async (req, res) => {
         } else {
             // If the favouriteId doesn't exist, save it
             const newFavourite = await userModel.saveFavourite(favouriteId);
-            res.status(201).send(`successfully posted a new favourite id`);
+            res.status(201).send(`successfully posted a new favourite id ${newFavourite}`);
         }
     } catch (err) {
         res.status(500).send(`Error posting Favourite id: ${err}`);
@@ -67,9 +67,38 @@ const deleteFavouriteId = async (req, res) => {
     }
 }
 
+const saveSearchTerm = async (req, res) => {
+    const { searchTerm } = req.body;
+    try {
+        
+        const newSearchString = await userModel.saveSearch(searchTerm);
+        res.status(201).send(`successfully posted a new search string ${newSearchString}`);
+
+    } catch (err) {
+        console.error(err);
+        res.status(500).json({ success: false, message: 'Internal Server Error' });
+    }
+}
+
+const getSearchTerms = async (_req, res) => {
+
+    try {
+        const SearchTerms = await userModel.fetchSearchTerms();
+        if (SearchTerms) {
+            res.status(200).json(SearchTerms)
+        } else {
+            res.status(404).send('Search history not found');
+        }
+    } catch (err) {
+        res.status(500).send(`Error retrieveing search history: ${err}`);
+    }
+}
+
 module.exports = {
     authenticateUser, 
     getFavouriteIds,
     postFavouriteId,
-    deleteFavouriteId
+    deleteFavouriteId,
+    saveSearchTerm,
+    getSearchTerms
 }

@@ -8,8 +8,8 @@ exports.up = function(knex) {
       table.string('username').notNullable();
       table.string('email').notNullable().unique();
       table.string('password').notNullable();
-      table.json('favourites').nullable(); // Store an array of product ids in favorites
-      table.json('history').nullable(); // Store an array of product ids in favorites
+      table.json('favourites').nullable();
+      table.json('history').nullable();
       table.timestamps(true, true);
     });
   };
@@ -18,7 +18,7 @@ exports.up = function(knex) {
    * @param { import("knex").Knex } knex
    * @returns { Promise<void> }
    */
-  
+
   exports.down = function(knex) {
     return knex.schema.dropTable('users');
   };
