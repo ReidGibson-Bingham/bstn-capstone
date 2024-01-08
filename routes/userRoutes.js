@@ -10,5 +10,11 @@ router
     .route('/api/users/favourites')
     .get(userController.getFavouriteIds)
     .post(userController.postFavouriteId)
+    .delete(userController.deleteFavouriteId)
+
+router
+    .route('/api/users/searchHistory')
+    .post(userController.saveSearchTerm)
+    .get(userController.getSearchTerms)
 
 module.exports = router;

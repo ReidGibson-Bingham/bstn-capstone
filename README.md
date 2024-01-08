@@ -124,3 +124,12 @@ preferences.
    - Enable users to set alerts for price drops on specific products.
 
 7. - Integrate personalized recommendations.
+
+
+### for running this
+env variables are:
+PORT=8080
+DB_HOST=127.0.0.1
+DB_NAME=hapidb
+DB_USER=root
+DB_PASSWORD=rootroot

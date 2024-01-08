@@ -10,9 +10,10 @@ exports.seed = async function(knex) {
     await knex('users').insert([
         {
             username: 'Brainstation Is-Cool',
-            email: 'BrainstationIsCool@gmail.com',
-            password: 'brainstationiscool', // You should use a hashed password in a real application
-            favourites: JSON.stringify([1, 3, 5]) // Example product ids in favorites
+            email: 'brainstationiscool@gmail.com',
+            password: 'brainstationiscool',
+            favourites: JSON.stringify([1, 3, 5]),
+            history: JSON.stringify(['red shirt']),
         },
     ]);
 };
