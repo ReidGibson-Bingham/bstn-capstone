@@ -59,5 +59,4 @@ const updateProductDescription = async (id, descriptionInput) => {
 module.exports = {
     getProducts,
     getProductById,
-    updateProductById
 };
