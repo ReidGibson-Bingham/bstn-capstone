@@ -26,12 +26,16 @@ The target users for HapiCapi are online shoppers in North America who are looki
    - Sorting algorithm to arrange products based on price, discounts, or a combination of factors.
    - Highlighting special promotions or limited-time offers.
 
-3. **Web Crawling:**
+3. **save favourite items:**
+   - save an item in history
+   - save search querys
+
+4. **Web Crawling:**
    - Implement web crawling with Google's Puppeteer . right now i'm trying to use Puppeteer for headless browsing. I can use a site's search function to display whatever data they show. 
    I might try Node Cheerio in the future. 
    - If my IP address get's blocked that will be a huge problem. I will use fake data in that case. 
 
-4. **Terminal Interface:**
+5. **Terminal Interface:**
    - Design a user interface reminiscent of a computer terminal for a unique and nostalgic user experience.
    - i want to incorporate xterm.js to actually show my terminal in the browser when using the web crawler or writing to the database or when any backend operation is occuring
 
@@ -120,3 +124,14 @@ preferences.
    - Enable users to set alerts for price drops on specific products.
 
 7. - Integrate personalized recommendations.
+
+
+### for running this
+env variables are:
+PORT=8080
+DB_HOST=127.0.0.1
+DB_NAME=hapidb
+DB_USER=root
+DB_PASSWORD=rootroot
+
+<!--  -->
