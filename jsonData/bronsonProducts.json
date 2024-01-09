@@ -1,0 +1,2914 @@
+[
+  {
+    "brand": "Bronson MFG",
+    "title": "Loopwheel Tubular Athletic T-Shirt - White",
+    "price": "$26.99  $32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-original-series-ringspun-cotton-short-sleeve-tubular-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2ed6aaa7-e7a0-437d-99d6-8ac9e0d1d126_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Striped Cotton Socks - Black/White",
+    "price": "$3.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-old-school-prisoner-striped-cotton-socks",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_91b5c051-885e-4a31-9f85-03b696765855_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - White",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-us-cotton-tube-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9d727a0d-5b08-403f-b74a-d75764f1564c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vietnam War OG-107 Utility Fatigue Pants",
+    "price": "$54.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-og-107-fatigue-utility-pants-baker-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_73496906-bc4e-435b-99d9-9f1c7b17012e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loopwheel Tubular Athletic T-Shirt - Apricot",
+    "price": "$26.99  $32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loopwheel-tubular-athletic-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_11137c53-0387-427c-9d02-836981a66085_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Short Sleeve Henley T-Shirt - White",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-vintage-short-sleeve-henley-collar-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_11d9c35d-5736-461e-8d2b-90b2e4648328_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz Wabash Vent Hole Work Shirt",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-9oz-wabash-cotton-materials-vent-hole-worker-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1a75c104-5038-4cc7-8baf-c2c6eafb5b87_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "15 oz Heavyweight Selvedge Denim Jeans",
+    "price": "$64.99  $69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-15oz-unwash-heavy-red-ear-tannin-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/20230723-174557_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz Wide Striped Long Sleeve T-Shirt",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-heavy-cotton-striped-prisoners-long-sleeved-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6bf82643-88c9-45ae-92c9-4341263eb788_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - White",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-workers-cotton-long-sleeved-henry-neck-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6797dcb3-d7d5-42e9-80bc-260f2be6bd26_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz Cotton Tank Top - White",
+    "price": "$14.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/300g-cotton-heavyweight-tank-top",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2c1b5eb3-cfbf-4308-b5b3-083fce7f2896_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Cotton Wide Striped T-Shirt - Black/White",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-heavy-wide-striped-prisoner-short-sleeved-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/5_b27b57ac-0849-4662-bf15-a841cf09fcd4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Breton Stripe Long Sleeve T-Shirt",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-french-sailors-style-breton-stripe-boat-neck-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4d65a28f-1225-42cb-91de-b344bc8f26d6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USAAF A-4 Watch Cap - Black",
+    "price": "$22.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-ww2-air-force-usaf-a-4-watch-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8839c15f-7b83-44cb-bed5-6fd70926b556_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz US Cotton Tubular Gusset T-Shirt - Green",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-300g-us-cotton-v-neck-tube-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7a9da2ed-b64b-451f-b7e2-110500eb8ef1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s IVY Style Double Pleated Chino Trousers - Khaki",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-ivy-style-two-pleated-chino-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_24a282e6-5f18-492f-993c-210a07e22b12_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loopwheel Tubular Athletic T-Shirt - Vintage Black",
+    "price": "$26.99  $32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loopwheel-tubular-athletic-t-shirt-vintage-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4d4ea712-517f-470c-8784-a993cbf7fb88_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Black",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6bf83f93-128d-4215-9ee9-6a837443d637_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Watch Cap - Black",
+    "price": "$22.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-ww2-usn-watch-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7772e85d-0ef5-4abf-920e-21f734bbe58a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Embryo",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-embryo",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_3820baf3-1ee1-4c0c-be79-11de8ebeba41_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1890s Slub Cotton Henley T-Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1890s-slub-cotton-short-sleeve-henley-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1f86432f-c9ff-4496-b50d-1c18e8c2fa42_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "12.5 oz 8 Wale Corduroy Trousers - Brown",
+    "price": "$43.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/12-5oz-8-wales-corduroy-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d5c4aa37-e742-42ec-833b-7c30c8876409_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Gurkha Bermuda Pants - Khaki",
+    "price": "$54.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-12-5oz-mens-british-army-model-gurkha-bermuda-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f5cb828f-6921-400c-a112-4789154595c2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1942 US Army Chino Trousers",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-engraved-1942-model-army-khaki-chinos-mens-uniforms-casual-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_82b94a3b-592a-4fac-8ede-0ffff6dfc367_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Vintage Black",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-vintage-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_353011d8-24ce-4bd8-b67a-172d666e2313_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - Apricot",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/mens-workers-vintage-long-sleeve-henley-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_44829038-1d0b-4c96-b569-10e7012dbbe5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s USN 3rd Type N-1 Woolen Deck Jacket - Khaki Stencil",
+    "price": "$189.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-mens-military-woolen-us-navy-usn-40s-type-3st-model-n-1-deck-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_f65ae292-31d6-4c8b-9b51-5880ce979630_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USMC P-44 Utility Pants",
+    "price": "$69.99  $89.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-u-s-marine-corps-usmc-hbt-p44-od7-mens-multi-bag-military-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_81715820-815b-4e52-936e-fcd65a10d115_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loopwheel Tubular Athletic T-Shirt - Gray",
+    "price": "$26.99  $32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loopwheel-tubular-athletic-t-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1e5a1a6a-03fb-48c4-bae6-0adaa455bf38_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Breton Stripe T-Shirt - Apricot/Navy",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/french-sailors-style-boat-neck-breton-stripe-short-sleeve-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_917a6042-122f-41a8-845f-4d7fe8d48e8f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "17.6 oz Heavyweight Terry Sweatpants - Black",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/500g-heavyweight-terry-sweatpants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4917930a-f937-42ab-be2f-64ee2b88d368_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Gray",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f997f65b-f65a-4c19-b795-a8b91118987c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz Cotton Tank Top - Black",
+    "price": "$14.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-10-5oz-cotton-tank-top-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fb1e9ce4-0910-4a4a-9130-1cd7ff1f4f8a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Gurkha Bermuda Shorts - Khaki",
+    "price": "$44.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-british-army-model-khaki-gurkha-bermuda-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/B1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN Herringbone Deck Pants",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-40s-original-fabric-usn-hbt-deck",
+    "imagePath": "http://localhost:8080/../../images/bronson/2138f2579893a679a0314d07ca96ea89_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s USN Slub Cotton Crew T-Shirt",
+    "price": "$38.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1940s-usn-crew-slub-cotton-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6c58a68b-e95f-46ca-b297-b9487330ef95_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Striped Cotton Socks - Green/White",
+    "price": "$3.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-school-prisoner-striped-cotton-socks-green-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_68be5a04-07b4-49be-b10f-e681d49e71f7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Colored Cotton No Show Socks - Embryo",
+    "price": "$2.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/colored-cotton-no-show-socks",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8be9223f-912a-441f-b030-7fc5fa9dc899_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s US Navy N-1 Deck Jacket - Cost-effective Version",
+    "price": "$119.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-reproduce-mens-military-us-naval-usn-40s-navy-n-1-deck-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5d1f7c83-aad4-4df3-af06-992d7a366389_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Denim Blue",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-denim-blue",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0d0f4d05-ea3b-471a-bcda-0a610bd2b1ee_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1920s Wabash Railway Work Pants",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1920s-wabash-railway-work-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1180b9e0-6555-40df-9378-e58be8a7daa9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Striped Denim Newsboy Cap",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-time-stripe-denim-news-boy-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1496e01a-0937-4a3d-bbff-db2c71c7e4d6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Striped Cotton Socks - Black/Orange",
+    "price": "$3.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-school-prisoner-striped-cotton-socks-black-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_17887e88-b47f-4ed3-8ab6-a27c33154ed9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1947 1st 838A OD7 Utility Fatigue Pants",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1947-model-hbt-838a-1st-o-d-7-fatigue-utility-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ec196adb-36da-41ec-8059-467b08f4214e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Slanted Pocket Tubular T-Shirt - White",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/one-pocket-tubular-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6b424234-0475-4a6e-a3d3-e0e40f9b9e23_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Striped Cotton Socks - Red/White",
+    "price": "$3.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-school-prisoner-striped-cotton-socks-red-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c5a99a5e-f121-4544-90fc-8d4cc56b77d2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Slanted Pocket Tubular T-Shirt - Navy",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/one-pocket-tubular-t-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_56d7b648-b9fc-462b-ab76-a8063bcddf9e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Fit Striped Jersey Rugby Shirt - Yellow/Navy",
+    "price": "$35.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/290g-heavyweight-yarn-dyed-stripe-long-sleeve-polo-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_84fb16de-9628-4129-97c6-1ca43ae9c197_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s USAF Type MA-1 Flight Jacket",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1955-us-air-forces-usaf-vietnam-war-industries-ma-1-flying-flight-bomber-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b7cb328e-b8da-4807-9365-11697f3633ea_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s IVY Style Double Pleated Chino Trousers - Yellow",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-ivy-style-double-pleated-chino-trousers-yellow",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_671a850c-13e8-420c-852c-b044f71d6367_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Pre-War Model USN Woolen Sweater - Navy",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/pre-war-model-usn-woolen-sweater-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_14317e3b-f0d9-44f7-ba18-442a03ec620c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1943 British Army KD & JG Gurkha Bermuda Pants - Olive",
+    "price": "$59.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-1943-pattern-british-army-model-kd-jg-gurkha-bermuda-combat-pants-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4893cfd7-b6ff-47a8-994b-ba1e95b7dab5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - Black",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-long-sleeve-henley-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_310a33bf-66c2-43b9-9393-06415e8798d0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "12.5 oz 8 Wale Corduroy Trousers - Black",
+    "price": "$43.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/12-5oz-8-wale-corduroy-trousers-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1_44359d8a-7d8b-41d8-8672-bfe71eacb089_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon Climbers' Shorts - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-outdoor-polyester-loose-overalls-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4d7b8711-7195-42e8-a693-8ea2eddf2177_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "CCC Daisy Mae Hat - Denim",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-model-daisy-mae-denim-hat",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a22b8042-204f-413f-a77c-6eb191ee1005_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Dark Green",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-tubular-t-shirt-dark-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8a98f62b-973e-45d1-87a8-424f6dc2577e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Short Sleeve Henley T-Shirt - Black",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-short-sleeve-henley-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_73296954-efcc-4a00-bec3-cc59bba982b4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Coffee",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-tubular-t-shirt-coffee",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_28eaf797-ef6c-4608-ac87-af12ccbb32c6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - Navy",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-long-sleeve-henley-t-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b2962915-71dc-4309-b8a1-e0207104a8e1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USAAF Type A-3 Cap - Olive",
+    "price": "$24.99  $39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-wwii-usaaf-army-air-forces-9-5oz-htb-cotton-type-a-3-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6903037e-0fc0-4481-aed0-9cf4ab710a4e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "U.S.N. Chambray Shirt",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-8-oz-selvage-1944-usn-fatigue-utility-chambray-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0cef721b-5f9a-4082-b85c-0a535b1637ea_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "17.6 oz Heavyweight Terry Sweatpants - Gray",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/17-6-oz-heavyweight-terry-sweatpants-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f48887ec-a7b0-44ba-a52b-6bdd670e1309_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "17.5 oz Terry Cloth Zip-Up Hoodie - Brick Red",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/500g-heavyweight-terry-cloth-zip-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_34670209-6320-4a3e-8d1e-ede2caf08b0d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Ginger",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-ginger",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d72d0448-27da-48ff-8742-569a035c8f04_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Short Sleeve Henley T-Shirt - Green",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-short-sleeve-henley-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0cdc91c6-e0ce-4a3c-8a39-4063edf499d1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Orange Red",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-ringspun-relaxed-fit-tubular-t-shirt-orange-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3d4aaad5-e1df-4a66-aef4-b45a803455d8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Chambray Short Sleeve Work Shirt",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/7-2oz-vintage-slim-fit-chambray-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c3b4f08e-685d-47b3-9c4b-b1ed9ffd550f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN N-1 Undershirt",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-replica-40s-usn-heavy-weight-underwear-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3afd3da7-d6bb-4897-8545-bf83cda25dd2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Brown Herringbone Wool Newsboy Cap",
+    "price": "$34.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-old-time-eight-panel-newspaper-boy-bakerboy-peaky-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_61e1c70f-2c51-475e-9c9e-e8629fd6002a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Short Sleeve Henley T-Shirt - Navy",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-short-sleeve-henley-t-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d8cdaeb9-673a-43e6-bb78-77652405549c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz US Cotton Tubular Gusset T-Shirt - White",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-5-oz-us-cotton-tubular-gusset-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d107d356-825d-4469-99f0-920dc1c3f902_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1917 US Navy 1st Denim Pants",
+    "price": "$75.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-usn-us-navy-1917-1st-deck-tannin-denim-workers-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2eece203-9971-4c56-8b13-aa98dbfacf87_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Wabash Railway Work Vest",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-wabash-railway-work-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c55a6068-d9ce-4e9d-93d2-00cfa96afc31_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Slanted Pocket Tubular T-Shirt - Green",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/one-pocket-tubular-t-shirt-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a3cbfa2d-a125-41a1-9710-e971502a4093_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Old-Time Y-Back Leather Button Suspender - Blue/Yellow Stripe",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-old-time-vintage-y-back-type-genuine-leather-trimmed-button-suspender",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ff4ae5b2-db42-477e-9ced-e2212e7aaeed_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Cotton Tank Top - Olive",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-cotton-tank-top-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_deefa90e-f828-445f-a626-d0e7630780d4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN UDT Team Reversible T-Shirt",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usn-udt-team-reversible-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/20220701-133910_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Cotton Wide Striped T-Shirt - Red/Apricot",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-cotton-wide-striped-t-shirt-red-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/3_e66d9b70-c523-4eec-a2c7-042f64adc9ce_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz US Cotton Tubular Gusset T-Shirt - Black",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-5-oz-us-cotton-tubular-gusset-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ce99e0b6-2edb-4fe7-b6d1-b600f62a0b02_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Striped Cotton Socks - Black/Blue",
+    "price": "$3.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-school-prisoner-striped-cotton-socks-black-blue",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0b0e1ab9-9790-476a-8d4f-e9f88a957f53_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vietnam War OG107 Fatigue Utility Shorts - Olive",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vietnam-war-og-107-fatigue-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_80fe0154-8a2b-4252-915e-eb7430c09130_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz Cotton Classic Pocket T-Shirt - Dark Gray",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-8-oz-cotton-classic-pocket-t-shirt-dark-grey",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9d8a9578-df64-4834-bc3e-3ab8a6ea2d72_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Ukiyo-e Tiger & Crane Pattern Aloha Shirt - Wine Red",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/tiger-pattern-aloha-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fc0ee00b-aaaa-4529-a82d-627aeb0cd044_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz US Cotton Tubular Gusset T-Shirt - Indigo",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-5-oz-us-cotton-tubular-gusset-t-shirt-indigo",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e7446a6a-10ea-4a6d-b4f7-4df85f555bd4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9 oz US Cotton Tubular T-Shirt - Sage Green",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-oz-us-cotton-tubular-t-shirt-sage-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c9dd6f6d-da1c-4f5e-85e5-8fb60d0caca1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "17.5 oz Terry Cloth Zip-Up Hoodie - Black",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/17-5-oz-terry-cloth-zip-up-hoodie-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2dce05ed-751a-4595-aeea-8a279a7d948f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vietnam War US Army OG-107 Fatigue Utility Shirt - Plain",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vietnam-war-us-army-og-107-fatigue-utility-shirt-plain",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0e988a54-0a29-4969-b466-7b470bb75108_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz Cotton Tank Top - Gray",
+    "price": "$14.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-5-oz-cotton-tank-top-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e05515ea-8ae1-4ffb-a9bc-21efc54d4372_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USAAF A-4 Watch Cap - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-usaf-a-4-watch-cap-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_db001597-8d58-45cb-9571-93da2524139a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "13 oz Cotton Twill Relaxed Fit Field Pants",
+    "price": "$64.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/13-oz-twill-cotton-relaxed-fit-field-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2069dc09-da35-4b73-b266-247fddd6837c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Pocket Sweatshirt - Black",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-500g-cotton-terry-cloth-one-pocket-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dc931564-fd02-4fb9-836c-0873b2744705_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 807XX 1954 Type 2 Selvedge Denim Jacket",
+    "price": "$129.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1954-2st-type-lot-807xx-14-5oz-selvage-denim-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/20230922-160853_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1920s Motor Troop Breeches",
+    "price": "$64.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-1920s-aviator-style-hunting-motor-troop-rugged-breeches",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2456a332-251b-4b3f-9d46-7ff2a6a02645_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 44801 1944 WWII Version Selvedge Denim Jeans",
+    "price": "$119.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-44801-wwii-simplified-type-mens-primary-colors-selvedge-denim-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_93209115-6e72-45bf-85ee-8f0bfe0a2c02_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Waffle Cotton Underwear - White",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-waffle-cotton-underwear-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_82737234-7b4c-4134-9fea-c97dcf9fb6f7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USMC P-41 HBT Utility Jacket",
+    "price": "$74.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usmc-p-41-hbt-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ba268a6b-8a3e-42b5-b36f-6774ed8e59e1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Gurkha Bermuda Pants - Olive",
+    "price": "$54.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-12-5oz-mens-british-army-model-gurkha-bermuda-pants-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_761ae254-218d-4eda-a9fd-e3ae62651cb1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Short Sleeve Henley T-Shirt - Red",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-short-sleeve-henley-t-shirt-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_035f37ce-7e25-4f54-b9da-c9892f8adb1e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Motorcycle Rider Printed T-Shirt - White",
+    "price": "$25.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-retro-rider-blue-patchwork-locomotive-motorcycle-short-sleeve-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d773a521-28a4-4882-be46-cbe6c5bd32fc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1922 USN 2nd Model Denim Coverall Utility Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-usn-navy-1920s-model-dungaree-jumper-deck-work-denim-overall-coat-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_12eb4c42-e2d1-4f47-8acb-b895f52b0a98_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Golden Tiger Camo Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/golden-tiger-camouflage-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ae1b164d-5f12-46df-beca-5ec84ec73081_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Cotton Wide Striped T-Shirt - Blue/White",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-cotton-wide-striped-t-shirt-blue-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5f1bd22b-3806-498c-a619-2183d317270b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type C-2 Wool Sweater",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-replica-1940s-wwii-usaaf-type-c-2-wool-zipper-cardigan-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b1cdd39d-c1eb-4a5f-98c0-b7820123acb7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Waffle Cotton Underwear - Black",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavyweight-waffle-cotton-underwear-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6aad47d0-de73-44fd-b029-02a27fb451d4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 920 Old Time Stripe Pants",
+    "price": "$109.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-920-old-time-stripe-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_00c35c25-eb8f-4576-9e4d-eed5dc4cb4d9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Cotton Tank Top - Apricot",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-cotton-tank-top-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8b506aa3-9856-4d60-a62f-09439d966a69_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Breton Stripe T-Shirt - Navy/Apricot",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/breton-stripe-t-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_26b44d13-0c5a-403d-b3f8-74029cb90cc2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1951 Arctic Trouser - Shell",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-1951-arctic-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8ade4a8b-134f-49be-8ce7-a187d28ad29e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavy Duty Boxer Physical Training T-Shirt - White",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavy-duty-physical-training-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b2df552d-cb7f-468f-835c-3f477210a18f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 1st Model M-65 Field Jacket",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1965-us-army-1st-model-og-107-m-65-field-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_071aed8f-4b2e-4651-9b0f-ec2b16198d57_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "17.5 oz Terry Cloth Zip-Up Hoodie - Gray",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/17-5-oz-terry-cloth-zip-up-hoodie-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5d332f6e-e6bc-4593-b49d-55973d8626ce_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s French Corduroy Hunting Jacket",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-model-french-heavyweight-corduroy-hunting-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d3a0a0b5-3a78-4d47-802c-19ac780132b6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type B-10 Flight Jacket - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-usaaf-wwii-1943-model-mens-polit-b-10-intermediate-flying-flight-bomber-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9462f81d-2e61-4dc0-a321-579b0787ff37_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 5th Model Tropical Jungle Fatigue Pants",
+    "price": "$62.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-5th-model-jungle-fatigue-tropical-pants-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c43bfafa-4009-432c-849d-243d89a8356a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "12.5 oz Corduroy 5 Panel Cap - Khaki",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/12-5-oz-corduroy-5-panel-cap-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f50e12a3-56b8-4035-98c5-d093377d0e2f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 602 1969 Model Selvedge Denim Jeans",
+    "price": "$62.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot602-1969-model-selvedge-denim-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ea3bfefe-eca5-4699-96df-a6ac252d3e98_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 5th Model Tropical Jungle Fatigue Jacket",
+    "price": "$64.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-vietnam-war-5st-1969-model-rip-stop-tcu-tropical-combat-uniform-suit",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0f42d282-ef72-4aa5-8579-0f921c58e69e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "21 oz Military Academy Reverse Weave Hoodie - Apricot",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavy-weight-600g-reverse-weave-hoodie",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_26321402-e26d-4802-b7d3-73ea4acea6e7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1943 US Army Duck Hunter Camo Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1943-us-army-hbt-duck-hunter-camo-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c47f79a0-348e-4d68-bb59-12f3d0d7cd8b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Wabash Railway Work Coat",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-wabash-railway-work-coat",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1e0767c9-6122-477e-ac52-12284fea7e7a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Cotton Tank Top - White",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-cotton-tank-top-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9f6ce9f2-7388-4404-823b-845f0ae1027c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1920s Heavy-Duty Corduroy Work Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1920s-heavy-duty-corduroy-work-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_79f912f2-d080-4447-8a3c-d78454705c62_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 801XX 1950s Vintage Selvedge Denim Jeans",
+    "price": "$119.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-lot-801xx-1950s-vintage-selvedge-denim-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_07c0505c-946b-4f39-b143-a16e01b6c689_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s Reversible Acetate Souvenir Jacket - Dragon Tiger Falcon",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/reversible-suka-yokosuka-embroidery-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c78b329a-6007-433d-ace8-fa669c9406cc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "13 oz Cotton Bedford Cord Pants - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/13-oz-cotton-bedford-cord-pants-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d8c354f5-d187-4bb3-9f6c-a52b5e1dec29_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Watch Cap - Navy",
+    "price": "$22.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-navy-watch-cap-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fe84350b-2921-43f2-acec-6ba4583f7864_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USMC Type P-44 HBT Duck Hunter Camo Jacket",
+    "price": "$99.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-pattern-usmc-type-p-44-hbt-duck-hunter-camouflage-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_746c514c-f744-4d4c-9408-581c6725bece_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vietnam War US Army OG-107 Fatigue Utility Shirt - Im Jin Scouts",
+    "price": "$58.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-vietnam-war-25th-infantry-division-us-army-og-107-utility-fatigue-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a63670da-ce4f-492a-8c55-c569bb7bbb77_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USMC P-44 HBT Utility Jacket",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usmc-p-44-hbt-jackets",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_228d8a0c-830d-4100-a2b0-6c37b13f5ec1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz Cotton Classic Pocket T-Shirt - Khaki",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-8-oz-cotton-classic-pocket-t-shirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f6ead681-2b64-4821-b761-d3af4d21acf0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz Cotton Classic Pocket T-Shirt - Apricot",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-8-oz-cotton-classic-pocket-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c3b8f8e1-2202-436a-a7a7-61ca54485a83_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz Cotton Classic Pocket T-Shirt - Light Brown",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-8-oz-cotton-classic-pocket-t-shirt-light-brown",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e5459e30-cf56-4610-aad2-c213a2cd2c65_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Indigo Denim Railroad Engineer Cap",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/railroad-engineer-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c1e706ab-8e74-4fcb-b775-0545ebf29630_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Korean War 6147th TAG. CON. GP. Mosquito Club Tour Jacket",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/korean-war-6147th-tag-con-gp-mosquito-club-tour-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c2965b0e-d212-4d4a-bb4b-3a0596196f2c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Air Force Type L-2 Flight Jacket",
+    "price": "$149.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-mens-l2-air-force-pilots-military-flying-flight-bomber-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_208de001-bcc9-457a-8860-5451831b2a3c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type A-1 V-neck Mechanics Sweater - Olive",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-type-a-1-v-neck-mechanics-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_62314d1c-87a3-4503-8b69-36f4ddb0ec57_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1910s Retro Corduroy Vest",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-retro-1910s-model-corduroy-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_26de6f27-6e81-4e4b-8068-c9f97a11ee50_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Flying Tigers Military Print Sweatshirt - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/flying-tigers-military-print-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_418bf9b3-3fa7-4083-b03b-f76294cd0e51_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavy Duty Canvas Double Knee Pants",
+    "price": "$89.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1930s-boss-of-the-road-heavy-duty-double-knees-duck-canvas-hunting-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1bb00df6-6cea-43be-ad3c-0a8512ed8fc4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Naval Academy Reverse Weave Sweatshirt",
+    "price": "$59.99  $69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/naval-academy-580g-heavyweight-reverse-weave-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_54cb8af5-6e02-4bfe-9055-740c8bd4d331_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "14 oz Side Closing Henley Shirt - Apricot",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/14-oz-side-closing-henley-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5f232574-c3b7-4d57-84e1-110134647e85_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz Cotton Classic Pocket T-Shirt - White",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-8-oz-cotton-classic-pocket-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fd99689b-ac30-4f2b-868f-606861b13767_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army High Neck Wool Sweater - Olive",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-high-neck-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7656e9d8-fe69-410b-82fb-3b3b21c0fb14_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz IVY Style Striped T-Shirt - Navy/Green",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-87-oz-cotton-ivy-style-stripe-t-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_750db8c2-4b2b-41dc-b2ef-3a56c469722b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loose Embroidery Bowling Shirt - Yellow",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loose-embroidery-bowling-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b82a35a2-b2d6-402f-abd2-59680718335b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s US Army 14 oz Officer Chino Trousers - Khaki",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-14oz-1950s-us-army-officer-chinos-uniforms-casual-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_379d7d61-3536-4e9c-8769-eb6e790d81e4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Style Quilted Padded Ripstop Nylon Vest - Olive",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-style-quilted-padded-ripstop-nylon-vest-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_eee4dba4-6b16-48f1-ad30-c7cb0bdcaf44_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Colored Cotton No Show Socks - Black",
+    "price": "$2.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/colored-cotton-no-show-socks-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b4dbdcef-9227-4f9a-85e4-a639bb1795a0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 861 Wave Point Wabash Work Shirt",
+    "price": "$89.99  $99.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-1861-10oz-blue-wabash-selvage-denim-work-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_549f88ad-a7a0-41dd-bab4-5acf6ba52df5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 1st Tanker Jacket",
+    "price": "$189.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-wwii-us-army-1st-model-winter-tanker-brad-pitt-fury-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6b5de119-d9f1-4795-8110-481b1d0005af_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.5 oz US Cotton Tubular Gusset T-Shirt - Sand",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-5-oz-us-cotton-tubular-gusset-t-shirt-sand",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_44670e78-a1cd-4add-a4fc-e9e1ef93177e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 2nd Tanker Jacket - Taxi Driver Model",
+    "price": "$189.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-replica-world-war-ii-mens-military-taxi-driver-model-tank-winter-combat-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_785027b0-1d92-4522-8285-33c9635164de_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Pocket Sweatshirt - Khaki",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/17-5-oz-terry-cloth-pocket-sweatshirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ef4b2603-1349-4da0-ab7f-1102652a5b9a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USMC P-44 Utility Shorts",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-10oz-hbt-cotton-1944-p44-usmc-utility-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c316f98d-e060-428d-8102-24cd4341f529_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "CCC Daisy Mae Hat - Camo",
+    "price": "$27.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ccc-daisy-mae-hat-camo",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6dd0d2b0-0b33-4626-8aec-e651d4fd50b1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "13 oz Cotton Bedford Cord Pants - Brown",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/13-oz-cotton-bedford-cord-pants-brown",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_08536ec3-ba29-45cf-a769-46456de5edb3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loose Climbers' Pants - Denim Blue",
+    "price": "$54.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loose-climbers-pants-denim",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_360d4862-2bc5-43e7-afd0-ff3ac405ca3c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF 14th Air Force Flying Tigers Embroidery Jacket",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-mens-14th-air-force-flying-tiger-american-volunteer-group-embroidery-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e20dd5d2-2c77-4536-87ee-e26d397777a3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz IVY Style Striped T-Shirt - Burgundy Red/Navy",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-87-oz-cotton-ivy-style-stripe-t-shirt-burgundy-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0507a41e-a572-4491-a7a7-0d413351d942_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s Reversible Acetate Souvenir Jacket - Falcon × Tiger",
+    "price": "$139.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/tiger-falcon-embroidery-reversible-suka-jacket-1",
+    "imagePath": "http://localhost:8080/../../images/bronson/20230109-154704_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s M.C. Motorcycle Biker Cap",
+    "price": "$29.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-m-c-motorcycle-biker-cap-badge",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_958fdd18-54ab-48fd-9787-6fd087d4b43b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 962 1960s 15 oz Cotton Double Pleated Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-962-1960s-15-oz-cotton-double-pleated-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0b933d8c-7859-4def-be29-00437ddc25c6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon Climbers' Shorts - Green",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-outdoor-polyester-loose-overalls-shorts-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f0ac386a-1363-4bd2-ab0c-1dc1c03995f4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "12.5 oz Corduroy 5 Panel Cap - Black",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/12-5-oz-corduroy-5-panel-cap-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_3745048f-b2f0-4f35-8a7c-7afaf49a7c73_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loose Climbers' Pants - Stripe",
+    "price": "$54.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loose-climbers-pants-stripe",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_41ce653e-977c-4529-aa5c-89336453503a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1943 British Army KD & JG Gurkha Bermuda Pants - Khaki",
+    "price": "$59.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1943-british-army-kd-jg-gurkha-bermuda-pants-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0f0220c7-939c-452f-a471-92981162ae2e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Salt & Pepper Beach Cloth Wool Vest",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-union-made-1930s-classic-style-salt-pepper-browns-beach-wool-outfit-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6417fb15-7a77-4142-b317-418eafda4604_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 910 1910s 12.5 oz Selvedge Denim Jeans",
+    "price": "$108.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-lot910-1910s-12-5oz-unwash-selvage-denim-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4a90eabc-e8a6-4db4-83ae-67efdb615094_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - Khaki",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-long-sleeve-henley-shirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ed141e76-1f5e-425b-94fa-bcd9326142fc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Ukiyo-e Tiger & Bamboo Pattern Aloha Shirt - Black",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ukiyo-e-tiger-bamboo-pattern-aloha-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_498f594e-2745-4b32-8331-2632530d2ca2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1960s AUS Army Combat Pants - Brown",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1960s-aus-army-combat-pants-brown",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6b02375a-d374-4ae3-9e08-097602029d65_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s Slub Denim Western Shirt",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-short-horn-slub-denim-western-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_cd6277b4-f430-4f37-923f-6b81a51c353e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Panama Open Collar Shirt - Ivory White",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/classic-panama-open-collar-shirt-ivory-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b8345070-9ce8-472a-8e24-f0118325be72_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-40 Dungaree Fatigue Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-10oz-us-army-m40-denim-dungaree-jeans-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8e723aa2-2cb7-4133-87bf-4f9766e23178_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Wide Striped Prisoner Pants",
+    "price": "$66.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/11-5-oz-heavyweight-wide-striped-prisoner-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_08df81ce-2a0b-4c7c-a550-d3aef016cf5b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Naval Raschel Knitting Waffle Thermal Shirt",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-naval-raschel-knitting-waffle-undershirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b64af691-373b-41d1-89b3-a4154a04f3f7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "9.8 oz IVY Style Striped T-Shirt - Yellow/Black",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/9-87-oz-cotton-ivy-style-stripe-t-shirt-princeton-tiger",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f8c3f1bf-b504-4e47-8b6a-8283beccf1e3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Colored Cotton No Show Socks - Sage Green",
+    "price": "$2.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/colored-cotton-no-show-socks-sage-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e080145a-aed4-46ee-9a7e-41391ed35f1a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 47801XX 1947 Selvedge Denim Jeans",
+    "price": "$119.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-1947-801xx-mens-selvage-denim-heavy-red-ear-tannin-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_67b89d14-6515-485f-b29f-cb702537ed44_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 808XX 1937 Model Selvedge Denim Jeans",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-808xx-1937-model-selvedge-denim-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a53bd3d1-22cd-44bd-8aac-1ee8b164d7f6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s USN Seabees Slub Cotton Training T-Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-40s-us-navy-usn-underwear-bamboo-cotton-short-sleeve-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ff98263a-857f-430f-be99-151ae3ca4c44_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Plants & Flowers Pattern Aloha Shirt - Navy",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/plants-flowers-pattern-aloha-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_56937399-4452-4840-a376-4c7aeed4d96b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.6 oz Cotton Short Sleeve Henley T-Shirt - Apricot",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-6-oz-cotton-short-sleeve-henley-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7f78c0bc-4c69-468b-a60e-9d482c52f75f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1951 Parka - OD3",
+    "price": "$189.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-korean-war-field-us-army-mod-m51-m-1951-fishtail-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ad8a7b65-184b-47ad-8331-b01055ea8169_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Pocket Sweatshirt - Apricot",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/17-5-oz-terry-cloth-pocket-sweatshirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ef06628e-87ac-4eb0-9f3a-19c87fb2eeb3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Storm Rider Denim Jacket",
+    "price": "$119.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-reproduce-mens-storm-rider-style-blanket-lined-denim-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_bb17f519-a26d-4a91-a705-a9ed67d3ece8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "7.5 oz Ripstop Cotton 5 Panel Cap - Navy",
+    "price": "$17.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/7-5-oz-cotton-tcu-5-panel-cap-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dfb37452-2001-4e24-990a-4fa366070022_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Final Version USN A-2 Deck Jacket (Polyester Lamb Wool)",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/final-version-usn-a-2-deck-jacket-polyester-lamb-wool",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3dd2df3d-f8a9-4edf-ba95-081dedbcd7a2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII US Navy Dixie Cup Hat - White",
+    "price": "$34.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-us-navy-dixie-cup-hat-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7d94f362-c373-481f-b5f7-0646cba2916b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "7.5 oz Ripstop Cotton 5 Panel Cap - Khaki",
+    "price": "$17.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/7-5-oz-cotton-tcu-5-panel-cap-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_cdaa86f7-8da7-4060-b19b-3bcb8c2284c9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s USN 3rd Type N-1 Woolen Deck Jacket - Olive Stencil",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1940s-usn-3st-n-1-woolen-deck-jacket-olive-stencil",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0a83cacc-2200-46b8-b9cf-6b02d1860a38_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army Air Forces Type B-9 Flight Down Parka",
+    "price": "$299.99  $369.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-usaaf-us-army-air-forces-b-9-heavy-duty-down-flying-flight-winter-militray-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_85e465d9-28f7-42c8-a6b7-b41a751ad3f6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "M-65 Liner Nylon Sacoche Bag",
+    "price": "$19.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-remade-m65-liner-nylon-bag",
+    "imagePath": "http://localhost:8080/../../images/bronson/2_b28b45a2-abfe-4380-95d5-a14ebc7671b6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Air Force Type L-2A Flight Jacket",
+    "price": "$149.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/u-s-air-force-type-l-2a-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_daa73d32-d5f8-40e1-8b1d-9d1902da5933_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "21 oz Military Academy Reverse Weave Hoodie - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-academy-21-oz-reverse-weave-hoodie-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_50c2f94c-3b0d-4cd0-9a2f-573bb4f89dc1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Bedford Cord Gurkha Bermuda Trousers - Brown",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/british-army-model-gurkha-bermuda-corduroy-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c88b7382-7931-4fc6-9472-1df2a3086968_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type A-1 Leather Flight Jacket - Light Brown",
+    "price": "$299.99  $339.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-mens-usaaf-the-first-air-force-tanned-suede-leather-type-a-1-flight-bomber-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ecdae153-7f88-42ab-a47a-d84ae74fd424_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN Wool Scarf - Black",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-usn-us-navy-thickened-wool-scarf-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1ec8dd6f-36f6-4c70-bee8-17d6e16459cc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Old Time Western Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-time-western-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a04052ca-4732-4063-913e-1c00c764364e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon Climbers' Shorts - Purple",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-outdoor-polyester-loose-overalls-shorts-purple",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fb2490a2-8d0f-4c6d-83f3-b3e1c40f03a2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USMC Type P-42 Duck Hunter Camo Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-pattern-duck-hunter-camouflage-type-p-42-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0b83d63f-283e-4c7a-b647-3223c8c6abfc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USMC P-41 HBT Utility Fatigue Trousers",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usmc-p-41-hbt-utility-fatigue-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3631183a-ca1e-4437-98aa-bb24cbcf2a26_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Fit Striped Jersey Rugby Shirt - Green/Navy/Red",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/mens-classic-fit-striped-cotton-jersey-rugby-shirt-blackish-green-ivy-stripe-polo-shirt-bronson",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fe273c68-dee9-4a69-b273-9e00f32453ef_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vintage Long Sleeve Henley Shirt - Gray",
+    "price": "$31.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vintage-long-sleeve-henley-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6f65d6eb-f46b-4b37-be50-d0d17ce850f3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Golden Tiger Camo Smock",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/golden-tiger-camouflage-smock",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fccce64f-fc3f-413d-95c1-62eab1b5ba1d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Gurkha Bermuda Shorts - Olive",
+    "price": "$44.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/british-army-gurkha-bermuda-shorts-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f7cb4f0f-7fca-4893-95fe-0997f625cd35_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "18 oz Canvas Tote Bag - Olive",
+    "price": "$41.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/18-oz-canvas-tote-bag",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e8d819e5-04e0-4811-a6c2-aecde2e87d40_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1943 Field Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-replica-world-war-ii-us-army-m-43-od-7-field-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ce2bb319-c252-46b9-b6ed-c9c1cb37b9c8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Straight-Leg Striped Logo-Embroidered Cotton-Terry Sweatpants - Navy",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/classic-straight-leg-striped-logo-embroidered-cotton-terry-sweatpants-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_617519e7-1a87-4d18-98bd-acd9ffc1b099_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Racing Half-Zip Heavyweight Fleece Sweatshirt - Apricot",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/20-5-oz-racing-half-zip-sweatshirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0cdda499-c1a3-42d7-89b6-678c9fea915d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1951 Field Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/korean-war-us-army-m-1951-field-jacket-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_282ad9b7-2630-4076-83a8-32b4623eb24f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Naval Academy Reverse Weave Hoodie",
+    "price": "$75.99  $85.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-navy-naval-academy-20-oz-reverse-weave-hoodie",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_108d07d1-51ba-46b5-86a2-20d51618888e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type B-15A Flight Jacket",
+    "price": "$209.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-1940s-type-b-15a-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_db5b0139-2985-424a-ae0d-586c4577d900_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.6 oz Cotton Short Sleeve Henley T-Shirt - Dark Gray",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-6-oz-cotton-short-sleeve-henley-t-shirt-dark-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c0d35d39-25a4-4466-ab0e-d91e131a15eb_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Style Quilted Padded Ripstop Nylon Jacket - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-style-quilted-padded-ripstop-nylon-jacket-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7e93d287-623a-40a8-85d1-a0d6c28fae0d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army KD-1941 Shorts",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/british-army-kd-1941-khaki-gurkha-bermuda-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1b0eaf7b-b245-4778-8f19-ba8dc6469a0c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s WWII USN 12 oz HBT Fatigue Deck Shorts",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-40s-wwii-12oz-original-fabric-usn-hbt-deck-workers-fatigue-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ce86cc5d-a875-4100-b57f-f5d2a88204bf_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Blue Chambray Work Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/blue-chambray-work-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fa5cf83b-dbcb-468f-b0be-a1e0f0ffcca5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Heavyweight Canvas Game Pocket Hunting Vest - Khaki",
+    "price": "$64.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-heavyweight-canvas-game-pocket-hunting-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_bdf4f305-e450-445f-98bb-08f60ac2c692_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 601 1969 Model 3rd Selvedge Denim Jacket",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot601-1969-model-3rd-selvedge-denim-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f1657c33-f963-4775-8fab-5475922d2744_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s USAFA Reverse Weave Half-Zip Sweatshirt - Navy",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-1950s-reverse-weave-usafa-half-zip-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_59b0fed7-6995-4acc-82b4-918fe9438d40_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Colored Cotton No Show Socks - Navy",
+    "price": "$2.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/colored-cotton-no-show-socks-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_10845ced-ee65-4d3b-a59e-fe29c2912fad_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 873 1873 1st Copper Riveted Work Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-873-early-duck-red-ear-canvas-unwash-trousers-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_82507231-0e72-4783-adca-7afab21d6eb1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1970s USAFA 18 oz Reverse Weave Hoodie - Gray",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-1970s-reverse-weave-usafa-hoodie-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_24335fb1-6de6-4ff5-b69c-665398653944_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s 20 oz Terry Cloth Hooded Sweatshirt",
+    "price": "$94.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-20-oz-terry-cloth-heavyweight-attached-hood-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d168a1ef-7faf-4989-b0c6-c28ed7f0a36e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1940s WWII USN 10.5 oz Denim Dungaree Deck Shorts",
+    "price": "$56.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-ww2-1940s-us-navy-usn-deck-10-5oz-denim-dungaree-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2687052d-b3b9-4449-8d54-1774a8922b9c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon Climbers' Shorts - Yellow",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-outdoor-polyester-loose-overalls-shorts-yellow",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ebc8b17f-ce0b-4eea-a790-49f60d63299d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavy Duty Boxer Physical Training T-Shirt - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/heavy-duty-boxer-physical-training-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_6f05a6c3-5aba-4589-bd83-5f478044c025_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.6 oz Cotton Short Sleeve Henley T-Shirt - White",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-6-oz-cotton-short-sleeve-henley-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_61c0b3c7-bbe6-4f48-ad24-af2433926ada_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s 20.5 oz Terry Cloth Reverse Weave Sweatpants - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-20-45-oz-terry-cloth-reverse-weave-sweatpants-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8579d847-88d2-4d76-82e9-94745891fc25_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Deck Hook Jacket",
+    "price": "$179.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/reproduce-wwii-us-navy-40s-type-2st-model-n-1-deck-hook-jacekt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_65e77bc2-72e5-476c-8a35-04a986c0e15e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII Military Baseball Shirt - AIEA NH",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1940s-replica-usn-wwii-baseball-jersey-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_93aac2fc-01f3-401b-b67c-f5a5e9128575_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s 20.5 oz Terry Cloth Reverse Weave Sweatpants - Gray",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-20-45-oz-terry-cloth-reverse-weave-sweatpants-apricot-1950s-20-45-oz-terry-cloth-reverse-weave-sweatpants-black-1950s-20-45-oz-terry-cloth-reverse-weave-sweatpants-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3db4db5b-89d9-4c34-be83-1b4bff883258_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 939 Heavyweight Corduroy Peacoat",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-939-heavyweight-corduroy-double-breasted-peacoat",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_eabf0e4e-d27a-46d5-a3c7-b453da9d74f4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Style Quilted Padded Ripstop Nylon Vest - Orange",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-style-quilted-padded-ripstop-nylon-vest-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ef71fef3-a017-4fde-bef3-7628a607b068_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Panama Open Collar Shirt - Dark Gray",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/classic-panama-open-collar-shirt-dark-grey",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_94c94010-d8de-420e-b6fa-fad458a398ea_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN N-1 Deck Jacket - Experimental Sample Type",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usn-experimental-n-1-deck-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_86b07d42-d501-40df-a3f0-778052ab4880_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Outdoor Reversible Nylon Cap",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/outdoor-reversible-nylon-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f13e21a3-7cfb-4f51-8f74-980c4762d32c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army High Neck Wool Sweater - Black",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-high-neck-sweater-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2fbdb992-9f77-46fa-9d94-6aa394e1dace_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Style Quilted Padded Denim Vest - Navy",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-style-quilted-padded-denim-vest-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d29bd84a-7c3f-4c20-ab05-a7934384a314_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-43 Field Trousers",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-m-43-field-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_bfee0460-25d9-47bb-9c95-527068844db4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "French Army Dispatch Motorcycle Shorts",
+    "price": "$42.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/french-army-dispatch-motorcycle-cotton-twill-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_36d50cbb-84d1-49ad-86a5-71a45bba1369_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII Military Baseball Shirt - 7th AFF",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1940s-replica-usn-wwii-baseball-jersey",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2ac4dc9d-d797-407e-b021-9f78385ae732_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1938 US Army 1st Model M-38 Mackinaw Coat",
+    "price": "$209.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-wwii-us-army-officer-jeep-jacket-mackinaw-coat",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c788eb4e-ba46-4755-ad67-d704c9aef000_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN UDT Team Reversible Three Quarter Sleeve T-Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usn-udt-team-reversible-three-quarter-sleeve-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ac20217b-6d2e-4679-b6ae-e0b0ba691576_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Racing Half-Zip Heavyweight Fleece Sweatshirt - Gray",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/20-5-oz-racing-half-zip-fleece-sweatshirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5ecccdb1-024f-4ddf-ac30-3fca38aff49e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 44806XX WWII Type 1 Selvedge Denim Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-war-type-lot-44806xx-14oz-selvage-denim-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dc1d3935-a823-41d5-8cf9-b4e4a62f8b02_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.6 oz Cotton Short Sleeve Henley T-Shirt - Khaki",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-6-oz-cotton-short-sleeve-henley-t-shirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6d4874be-3dbb-4f4f-843a-23d678add19a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-41 HBT Fatigue Jacket",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-41-hbt-fatigue-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_039a4536-5103-41c6-b28b-3440396274a3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s Motorcycle Biker Cap",
+    "price": "$25.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-m-c-motorcycle-biker-cap-plain",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ba78b7bf-1d5f-427f-ab7c-d2fc35a11973_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USMC Pile-lined Vest (Modified)",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-usmc-pile-lined-vest-modified",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b32772a1-700e-4770-92f5-dea7d9717fff_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-41 HBT Fatigue Trousers",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-41-hbt-fatigue-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_efc621f5-a83b-44f8-9c25-9dd3590b5b24_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10.6 oz Cotton Short Sleeve Henley T-Shirt - Gray",
+    "price": "$24.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-6-oz-cotton-short-sleeve-henley-t-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_37c20d7a-6969-4341-86d4-c3b1ec004819_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "15 oz French Terry Sweat Shorts - Black",
+    "price": "$35.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/15-oz-french-terry-sweat-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f65161d0-53ef-479c-8793-6e0c8dedcc9c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "14 oz Side Closing Henley Shirt - White",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/14-oz-side-closing-henley-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_336a122f-ddc9-430c-9e18-3cdf712201dc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1960s AUS Army Combat Pants - Khaki",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1960s-aus-army-combat-pants-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_56329e93-d4ba-45e8-ba11-3c65a9b728ee_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "14 oz Side Closing Henley Shirt - Gray",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/14-oz-side-closing-henley-t-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_255fec0a-094b-4888-b827-e7fa906123d4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1943 US Navy 1st Type N-1 Deck Jacket - Navy Stencil",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-reproduce-mens-military-woolen-us-navy-usn-40s-type-1st-model-n-1-deck-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/2_d1e4faf3-82ba-4c98-8ddd-1762ee9bce88_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s 20.5 oz Terry Cloth Reverse Weave Sweatpants - Apricot",
+    "price": "$78.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-20-45-oz-terry-cloth-reverse-weave-sweatpants-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8df82b8f-4f30-48a6-b66b-8d003914f8aa_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII USAAF Type A-3 Cap - Indigo",
+    "price": "$29.99  $39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-wwii-type-a-3-cap-indigo",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ad1ce482-a1cd-49d7-948f-2cfc78f83ee2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type B-10 Flight Jacket - Khaki",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-type-b-10-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_df060abf-0b0a-4050-99ea-b8b0e023e50e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Hickory Stripe Cotton Collarless Workshirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-stripe-yarn-dye-cotton-collarless-workshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_312fa0c1-9f08-404d-9686-6a8445a0918a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type A-1 V-neck Mechanics Sweater - Black",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-type-a-1-v-neck-mechanics-sweater-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7fd72967-22f8-49b0-954e-021ad36701a5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Duck Hunting Vest",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-duck-hunting-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/2_f1a55da9-dee9-4d6d-ab7a-60e2967986a8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type A-1 Leather Flight Jacket - Dark Brown",
+    "price": "$299.99  $339.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-type-a-1-leather-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_927c6c24-9d96-45ae-ad5c-f0385f0f5ad2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Indigo Linen and Cotton-Blend Newsboy Cap",
+    "price": "$25.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-time-linen-and-cotton-blend-newsboy-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c1bae3c3-9024-48a1-8f4e-d489f086509e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Slanted Pocket High Twist Cotton Tubular T-Shirt - Coffee",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/slanted-pocket-high-twist-cotton-tubular-t-shirt-coffee",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b1f381ea-6b4c-40f7-8293-bdd9273d9dba_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Air Force Type B-15C MOD Flight Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-replica-usaf-air-force-korean-war-b-15c-mod-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ddbee61b-306f-4b7e-bf2f-dbe49b271745_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "15 oz French Terry Sweat Shorts - Gray",
+    "price": "$35.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/15-oz-french-terry-sweat-shorts-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_cde5343c-c380-4a01-85d3-6be60dc5c42a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Motorcycle Rider Printed T-Shirt - Apricot",
+    "price": "$25.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/retro-printed-rider-motorcycle-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_50ac82e4-c46e-4867-88c7-2cd0db89af25_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Vietnam War OG107 Fatigue Utility Shorts - Navy",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/vietnam-war-og107-fatigue-utility-shorts-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s US Air Force Type B-15C Flight Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-us-air-force-type-b-15c-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_de0092e0-20b2-4a60-829c-7020130c3879_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Straight-Leg Striped Logo-Embroidered Cotton-Terry Sweatpants - Orange",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/classic-straight-leg-striped-logo-embroidered-cotton-terry-sweatpants-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_22767b8c-aea4-422c-8237-a96770ec5be2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1935 US Army CCC Fatigue Jumper",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ccc-1935-us-army-fatigue-jumper",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2735e0de-6bf5-42f2-930d-ec7433c8b380_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Colored Cotton No Show Socks - Red",
+    "price": "$2.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/colored-cotton-no-show-socks-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_aec62210-eace-420d-b862-167bede23f92_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN 1st A-2 Deck Jacket - Experimental Sample Type",
+    "price": "$179.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usn-1st-a-2-deck-jacket-experimental-sample-type",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e2272b25-0914-484b-8807-ce995f986f7a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Experimental Test Sample Protective Cover Pants - Black",
+    "price": "$74.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/experimental-test-sample-protective-cover-pants-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4b069bd9-76ad-4ea8-958a-2adc3bf82ecb_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Motorcycle Turtle Zip Jersey Overweight Sweatshirt - White",
+    "price": "$89.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-motor-turtlezip-jersey-overweight-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_67efaf60-98f8-4b3d-9926-d8315a88650f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Old-Time Y-Back Leather Button Suspender - Khaki Stripe",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/old-time-y-back-leather-button-suspender-khaki-stripe",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3ce45560-6480-4511-a37c-2aff9e31f628_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "U.S.N. N-3 Utility Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/u-s-n-n-3-utility-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e3a2324d-041a-47d8-925f-e2fe4c3342ba_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot AS08 Ukiyo-e Tiger & Bambo Pattern Aloha Shirt - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-as08-eastern-traditional-tiger-pattern-aloha-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dc4f017b-ca80-41e8-bde6-f99afdeecce3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Classic Straight-Leg Striped Logo-Embroidered Cotton-Terry Sweatpants - Gray",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/classic-straight-leg-striped-logo-embroidered-cotton-terry-sweatpants-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_933418fc-77c2-439c-9055-b0764a685378_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 929 Heavyweight Pique Salt & Pepper Stripe Pants",
+    "price": "$96.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-929-heavyweight-pique-salt-pepper-stripe-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6f2e117e-37ce-42a7-abcf-ddf23bdf4799_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Ukiyo-e Tiger & Bamboo Pattern Aloha Shirt - Light Green",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ukiyo-e-tiger-bamboo-pattern-aloha-shirt-light-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_772ee025-b744-45a7-a28a-ea1493f1af84_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1970s USAFA 18 oz Reverse Weave Hoodie - Black",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usafa-18-oz-reverse-weave-hoodie-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_049282c2-fabb-419c-bb84-39e7dcf229e8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Corduroy Hunting Vest - Dark Brown",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/outdoor-corduroy-hunting-thickening-vest",
+    "imagePath": "http://localhost:8080/../../images/bronson/3_c262e58a-058c-4d3b-8f0d-aa50a42cf4c5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-41 Field Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-41-field-jacket-p-q-d-no-20a",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7c6af065-c5cf-42ae-9102-0febeb77e19d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Military Style Quilted Padded Ripstop Nylon Jacket - Orange",
+    "price": "$49.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/military-style-quilted-padded-ripstop-nylon-jacket-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_aa6b1ec7-0b73-429f-a391-22b2f6a93da5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USN Wool Scarf - Olive",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/non-stock-usn-us-navy-thickened-wool-scarf-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d94e1281-ff8f-45ec-8e47-f635f6107ccf_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 931 Black & Gray Stripe Pants",
+    "price": "$96.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-931-black-gray-stripe-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fd65b006-b10b-429a-8d48-397b12c94b87_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "ECWCS Woodland Camo Parka",
+    "price": "$75.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-ecwcs-woodland-camouflage-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_acfbe70d-3f85-4c5d-884c-d3e06575b9ed_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Slanted Pocket High Twist Cotton Tubular T-Shirt - Apricot",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/slanted-pocket-high-twist-cotton-tubular-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_401ae9c0-c08a-4e2b-b338-f10d08ee3ed0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Naval Academy Rugby Hoodie",
+    "price": "$92.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-naval-academy-rugby-hoodie",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_38217bab-d5ea-42be-a01c-5b706558df4a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s 12.5 oz Selvedge Denim Carpenter Work Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-12-5oz-selvage-denim-carpenter-work-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a555ae32-133d-4375-b459-8c674917ff72_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Motorcycle Rider Printed Raglan Sleeve T-Shirt - Apricot",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/retro-motorcycle-rider-printed-raglan-sleeve-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_534451ac-76a1-45cc-b41a-1d4a27c69293_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Two-Tone Rider Printed Raglan Sleeve T-Shirt - Green/White",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/printed-two-tone-raglan-sleeve-biker-t-shirt-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f32d162b-dbbd-4bfd-bf35-9ea496ae2c48_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "18 oz Canvas Tote Bag - Black",
+    "price": "$41.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/18-oz-canvas-tote-bag-1",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a6257fe9-4376-4bcf-b648-98c396c430a7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Boxing Glove Pocket Lock Hood Hoodie",
+    "price": "$109.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/boxing-glove-pocket-lock-hood-hoodie",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3cca191c-6c35-4adf-a991-8ab97cd716ea_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1944 USMC Officer Trousers - Khaki",
+    "price": "$73.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1944-usmc-officer-trousers-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_96cbc4d4-0b99-4187-a3a9-dbeedac5cecd_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Slanted Pocket High Twist Cotton Tubular T-Shirt - White",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/slanted-pocket-high-twist-cotton-tubular-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_33b45bc2-e882-4866-939b-ef0e622acd1e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Dragon × Tiger Embroidery Flyers Helmet Bag",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/dragon-tiger-embroidered-flyers-helmet-bag",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2e76042d-c07a-4545-ae9a-d7d685304244_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Modified Deck Tools Bag - Green",
+    "price": "$99.00  $109.00",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/modified-usn-deck-tools-bag",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6d78a993-3e3f-42ba-bbc6-ef5177cde794_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-43 Duck Hunter Camo Shorts",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-43-duck-hunter-camo-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7b562f68-06b1-4051-86b7-ecd66430aeee_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII Early Model Submarine N-1 Woolen Deck Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-wwii-early-model-heavy-duty-super-warm-woolen-liner-submarine-n-1-deck-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1d40ffed-949d-4a8b-bd73-e79f652c979a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Heavyweight Wide Striped Prisoner Shorts",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/11-5oz-twill-cotton-prisoner-style-motorcycle-wide-stripe-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6fcc95c3-a61c-4bf7-9e44-904c7c6e6eef_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 952 HBT Striped Mechanic Pants - Navy",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-952-hbt-striped-mechanic-pants-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1e319b77-66e1-4b6a-b9b7-94950f762e97_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Motorcycle Rider Printed Raglan Sleeve T-Shirt - Black",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/retro-motorcycle-rider-printed-raglan-sleeve-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_964db01d-d171-46df-8dca-6d415cd63080_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy AL-1 Flight Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-navy-al-1-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b6c5461b-0363-4dde-a325-7e421ecaa968_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930 Boxing Fleece Sweatshirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930-boxing-fleece-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8601d90b-4114-4b5a-871b-0a61592a9d60_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Waffle Cotton Full-Zip Track Jacket - Orange",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/waffle-cotton-full-zip-track-jacket-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_859801a4-080e-4f3c-87f7-5d4882fa448b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Experimental Test Sample Deck Overalls - Khaki",
+    "price": "$149.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/experimental-test-sample-deck-overalls-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d8ee3a7b-f1e6-467d-b0ac-98fd552f8643_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10 oz Cotton Canvas Climbing Pants - Navy",
+    "price": "$43.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-oz-cotton-canvas-climbing-pants-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9f387e21-5d7f-40d5-bf73-535014867e57_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Slanted Pocket High Twist Cotton Tubular T-Shirt - Olive",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/slanted-pocket-high-twist-cotton-tubular-t-shirt-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_40b908a9-8d0a-4138-8c67-5de04ea9e36a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s USAFA Reverse Weave Half-Zip Sweatshirt - Gray",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-usafa-reverse-weave-half-zip-sweatshirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ac5314dc-8b29-41aa-8946-42709199a22f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Tiger Stripe Camo Tropical Jungle Fatigue Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/tiger-stripe-camo-tropical-jungle-fatigue-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a6139c3f-5da0-4288-9b53-3c4cf931099d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-42 Airborne Paratrooper Field Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/type-m-42-paratrooper-field-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7cfed96b-d497-44be-a087-fc7c9f445aa5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Jacket, Winter Flying Suit - MIL-S-18342A(AER)",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-usn-j-wfs-wep-g-8-winter-flying-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7e09c4ee-7515-4ce6-aa77-70622dc96e46_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1935 US Army CCC Fatigue Dungaree",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ccc-dungaree-1935-us-army-fatigue-uniform-jeans",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_692026a3-2c6e-44e0-b50c-0a4704f7d237_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Experimental Test Sample Protective Cover Pants - White",
+    "price": "$74.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/experimental-test-sample-protective-cover-pants-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_d6ec03c3-6689-4e8d-93f7-5b0a4051c74c_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Navy Y Instructor Boxing Sweatshirt",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/navy-y-instructor-boxing-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f6452f06-7919-442d-bf9c-c36e5127fe3d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1956 USAF Khaki Shorts",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1956-usaf-summer-uniform-khaki-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_459f1e1d-97e7-46ef-a1f1-04008a3ef2d7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1944 USMC Officer Trousers - Navy",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1944-usmc-officer-trousers-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/20231116-181806_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Hickory Stripe Railroad Engineer Cap",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/hickory-stripe-railroad-engineer-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_81910e43-6990-41dd-aeca-8be9684a7cbf_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1920s Drinking Team Motorcycle Racing Sweatshirt - Orange",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-20s-drinking-team-turtlezip-jersey-racing-sweater",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_eb30168b-4a68-4038-84be-59efbad4a1ce_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot AS08 Ukiyo-e Tiger & Bambo Pattern Aloha Shirt - Wine Red",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-as08-eastern-traditional-tiger-pattern-aloha-shirt-wine-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_bd6590eb-fc32-493e-a132-74df9a41eda0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Plants & Flowers Pattern Aloha Shirt - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/plants-flowers-pattern-aloha-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5e94bc13-d75f-4d62-88a5-978298e8f7b6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Plants & Flowers Pattern Aloha Shirt - Red",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/plants-flowers-pattern-aloha-shirt-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dc744110-9b1d-453b-83f4-d47e58c835ec_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Tiger Stripe Camo Tropical Jungle Fatigue Jacket",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/tiger-stripe-camo-tropical-jungle-fatigue-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_af35d9b4-7461-4376-9411-65cd4db70605_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "23 oz Two-Tone Attached Hood Parka",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/2-tone-attached-hood-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8e19f9eb-10ee-4299-90a7-e5dbbcb109e5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1944 USMC Officer Trousers - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1944-usmc-officer-trousers-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f74de879-c2a9-4c0f-91f1-c2803f12cc67_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10 oz Cotton Canvas Climbing Pants - Khaki",
+    "price": "$43.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-oz-cotton-canvas-climbing-pants-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_46220a3a-0b69-41da-b722-2b915858a8b9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army 1st Model M-65 Field Jacket Liner",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-1st-model-m-65-field-jacket-liner",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_279299e3-26bd-4c0b-bed1-294e70dae85b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Duck Canvas Railroad Engineer Cap",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/railroad-engineer-duck-canvas-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_575abbde-7732-418f-b3b5-be3df1ef7368_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Two-Tone Rider Printed Raglan Sleeve T-Shirt - Blue/White",
+    "price": "$23.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/printed-two-tone-raglan-sleeve-biker-t-shirt-blue-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5de16c14-d4cd-4a3c-9ad1-149dd1d1bba5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Motorcycle Club Logo-Print Reverse Weave Hoodie",
+    "price": "$89.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/21-oz-motorcycle-club-logo-print-reverse-weave-cotton-terry-hoodie",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_273644ff-7246-4512-bb07-8f1afa92d387_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWII US Navy Dixie Cup Hat - Navy",
+    "price": "$34.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwii-us-navy-dixie-cup-hat-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_af4ba10a-8640-4bae-a36b-e9445cf98e17_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Herringbone Cotton Camouflage Assault Vest (Modified)",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/herringbone-cotton-camo-assault-vest-modified",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_04438f03-12c3-4420-ad7e-b7f49e965fc6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Experimental Test Sample Protective Cover Pants - Khaki",
+    "price": "$74.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/experimental-test-sample-protective-cover-pants-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_250389c1-7a6f-4fdc-8a63-186be1fb9d04_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWI US Army Messenger Bag - Khaki",
+    "price": "$149.99  $169.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-wwi-us-army-canvas-vegetable-tanned-leather-postage-messenger-bag",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7d1d1dd2-e7c7-4997-86ec-3d6bfb138c89_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1970s USMC Semper Fi Print Athletic T-Shirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1970s-usmc-semper-fi-print-athletic-t-shirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9cbf76ca-ec0e-4fa1-903d-edcaf70cabdb_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 955 Moleskin Warden Pants",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-955-13-oz-heavyweight-cotton-moleskin-warden-pants",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1939f01c-729d-4a5b-9b2c-a0ea31fb14e3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1943 Herringbone Cotton Camouflage Pants (Modified)",
+    "price": "$92.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-1943-herringbone-cotton-camouflage-pants-modified",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f9fc9317-c622-4105-ad02-76af21700a4a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Motorcycle Turtle Zip Jersey Overweight Sweatshirt - Black",
+    "price": "$89.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/motorcycle-turtle-zip-jersey-overweight-sweater-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_653a05f6-0027-4d8b-9411-713cbc2ebe1a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot AS08 Ukiyo-e Tiger & Bambo Pattern Aloha Shirt - Navy",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-as08-eastern-traditional-tiger-pattern-aloha-shirt-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6079f5ac-8d00-4b10-9e4d-bc45ee82a2c4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Aggressor M-1951 Field Jacket",
+    "price": "$109.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/aggressor-m-1951-field-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fcb6a553-0074-4c1c-920c-fcaee9782f07_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Waffle Cotton Full-Zip Track Jacket - Gray",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/waffle-cotton-full-zip-track-jacket-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_02db88f0-1ec8-4d2c-b8d5-18595a88daaa_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Retro Motorcycle Rider Printed T-Shirt - Navy",
+    "price": "$25.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/retro-rider-motorcycle-t-shirt-sport-fun-thrills-blue",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c0efa7d4-4800-4d79-9186-1d32fd783a0b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-65 Parka",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/reproduce-korean-war-field-us-army-mod-m65-m-1965-fishtail-parka",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b761232c-137e-4eac-bca9-141ee8597673_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Flying Tigers Military Print Sweatshirt - Gray",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/flying-tigers-military-print-sweatshirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_36dc092d-5645-4a65-a1ba-984df00e17da_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 339 1920s Horsehide Leather Brakeman Coat",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-339-1920s-horsehide-leather-coat",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e5453a40-260f-4488-a135-a4a22ad4a0e9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "8.5 oz Cotton Ripstop Cargo Shorts - Khaki",
+    "price": "$46.99  $52.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/8-5-oz-cotton-ripstop-cargo-loose-shorts-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c41b7f5f-3245-4251-bb6d-e8534b67e4f9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-1951 Parka Liner",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-1951-parka-liner",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_92e15e45-201d-4a11-9686-4522015718c9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-43 Camo Jacket",
+    "price": "$99.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-43-camouflage-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_0b1cb637-95d3-4d12-b58e-698831a41b07_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "8.5 oz Cotton Ripstop Cargo Shorts - Black",
+    "price": "$46.99  $52.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/8-5-oz-cotton-ripstop-cargo-loose-shorts-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_d71fe71d-4e4d-4b47-bfa3-6f53aa179454_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Fox Embroidery Vietnam Souvenir Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/fox-embroidery-vietnam-souvenir-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_591ab7b8-d075-4d58-81be-f00aeb4bb696_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 951 1950s Mechanic Coveralls Jumpsuit - Navy",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-951-vintage-1950s-mechanic-coveralls-jumpsuit-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_b7d2a8d9-3d55-487e-a72b-3f7153d48427_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s 14.5 oz Slub Denim Chore Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-14-5-oz-slub-denim-chore-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_73c510a1-059b-44d2-98b2-5eccc1aa8fd3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "8.5 oz Cotton Ripstop Cargo Shorts - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/8-5-oz-cotton-ripstop-cargo-loose-shorts-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c4aeb4b5-ca91-477c-bcdd-5e2cfb504b9f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Experimental Test Sample Deck Overalls - Navy",
+    "price": "$149.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/experimental-test-sample-deck-overalls-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9bc44e9f-58ee-4576-a83f-ad556d1fa22b_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "21 oz Military Academy Reverse Weave Hoodie - Gray",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/21-oz-military-academy-reverse-weave-hoodie-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e0433071-4b06-4723-a652-a29a672090be_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Slanted Pocket High Twist Cotton Tubular T-Shirt - Khaki",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/slanted-pocket-high-twist-cotton-tubular-t-shirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_959aa2a3-6684-493d-9339-956c682a78e0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Hickory Stripe Cotton Cargo Shorts",
+    "price": "$62.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/hickory-stripe-cotton-cargo-shorts",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2bd81455-6a7a-41e5-aecd-e1ff7a12d338_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Quarter-Zip Rider Printed Raglan Sleeve T-Shirt",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/printed-quarter-zip-raglan-sleeve-rider-t-shirt-yellow",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e5b2120d-e253-4340-90e9-dac9656377f7_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Parka, Field, Cotton, O.D.",
+    "price": "$209.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/parka-field-cotton-o-d",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c9f5ad16-9043-48f1-8193-0dfb954fd17f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "10 oz Cotton Canvas Climbing Pants - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/10-oz-cotton-canvas-climbing-pants-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5bb9ce53-b105-4882-9a4d-29aaef1f2e65_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Skull Embroidery Vietnam Souvenir Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/skull-embroidery-vietnam-souvenir-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_23b5b270-4eb1-4ebc-86d1-7d76e17c35ee_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "21 oz USCG Reverse Weave Sweatshirt",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/21-oz-cotton-uscg-reverse-weave-sweatshirt",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a224effe-0a4b-431b-9c2e-5bd31e184d03_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Corduroy Hunting Vest - Light Brown",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-corduroy-hunting-vest-light-brown",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f58db48a-2d6b-4b80-aaf7-305e0388e526_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Pre-War Model USN Woolen Sweater - Black",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/pre-war-model-usn-woolen-sweater-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e61de3eb-e8b5-4bb3-b13e-3fd4fde8f37d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Devil-Dog Logo-Print Reverse Weave T-Shirt - Black",
+    "price": "$28.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/devil-dog-logo-print-reverse-weave-t-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/01_1e7c54ba-b68e-4090-b6e3-78dadbd0ee23_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Cotton and Linen-Blend Quilted Padded Chore Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/cotton-and-linen-blend-quilted-padded-chore-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c122f765-067f-4831-bc46-ee8bb3d83a2e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loose Embroidery Bowling Shirt - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loose-embroidery-bowling-shirt-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2bfc8e6a-a167-4c14-a405-58f53dd9fdc3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1920s Drinking Team Motorcycle Racing Sweatshirt - Navy",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-20s-drinking-team-turtlezip-jersey-racing-sweater-1",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_336a03df-f5fd-4458-92ae-c36fa36493a2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "15 oz French Terry Sweat Shorts - Apricot",
+    "price": "$35.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/15-oz-french-terry-sweat-shorts-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_584a763b-d990-40ad-8827-da08233370f0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Waterproof Camping Hunting Nylon Vest - Olive",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/waterproof-camping-hunting-nylon-vest-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_74d2bb9b-672b-4477-b76d-7d5ed591a99d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 954 Moleskin Warden Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-954-13-oz-heavyweight-cotton-moleskin-warden-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2873ac5c-3bf5-4610-88eb-ab0b48dfe33f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Brown Striped Herringbone Wool Newsboy Cap",
+    "price": "$34.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/brown-corduroy-newsboy-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e9186297-27ae-46d2-9152-146746ddc8a9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Flying Tigers Military Print Sweatshirt - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/flying-tigers-military-print-sweatshirt-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_fd8669dd-4d15-4d37-8fb5-5411199d05b6_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Bronson Gift Card",
+    "price": "$50.00",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/bronson-gift-card",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9437d720-0661-4088-aaa5-70d29efd6ba2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon and Cotton Blend Game Pocket Outdoor Vest - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/nylon-and-cotton-blend-game-pocket-outdoor-vest-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_28dc7f16-431f-48f6-b64c-48ae1f88ef5f_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Watchdog Logo-Print Reverse Weave T-Shirt - Gray",
+    "price": "$28.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/watchdog-logo-print-reverse-weave-t-shirt-gray",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_96abae2d-6288-4531-8b32-b59eda281789_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Loose Embroidery Bowling Shirt - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/loose-embroidery-bowling-shirt-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_978357e5-25db-4f4d-9491-15069a1bc9ab_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Herringbone Denim Bucket Hat",
+    "price": "$20.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/herringbone-denim-outdoor-bucket-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2cc5c059-e98b-43f2-a219-d6daaeb75c28_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "USAAF Type B-6 Flight Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/usaaf-b-6-sheep-leather-flight-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2fdbc033-ee86-4e38-858b-e08d6ba64730_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 952 HBT Striped Mechanic Pants - White",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-952-hbt-striped-mechanic-pants-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1980's Rip-Stop Nylon Trail Down Vest - Navy",
+    "price": "$115.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1980s-rip-stop-nylon-trail-down-vest-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_18db5cfe-17c1-49db-9480-99d5f8c3e86a_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon and Cotton Blend Game Pocket Outdoor Vest - Red",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/nylon-and-cotton-blend-game-pocket-outdoor-vest-red",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_af8f6c4c-ca05-4fd3-ba7b-08fc8d3f13b9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Nylon and Cotton Blend Game Pocket Outdoor Vest - Khaki",
+    "price": "$45.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/nylon-and-cotton-blend-game-pocket-outdoor-vest-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_30fb2882-1b73-4c97-8ed0-660a6393db9d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Watchdog Logo-Print Reverse Weave T-Shirt - Apricot",
+    "price": "$28.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/watchdog-logo-print-reverse-weave-t-shirt-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f68523dc-24e6-46e4-a3a5-88cfb1c22b66_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Waterproof Camping Hunting Nylon Vest - Khaki",
+    "price": "$55.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/waterproof-camping-hunting-nylon-vest-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_c690cfa3-54a3-4884-b275-71b95935dc58_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWI US Army Messenger Bag - Black",
+    "price": "$149.99  $169.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwi-us-army-vegetable-tanned-leather-canvas-messenger-bag-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_e823d106-fb65-4d20-a238-62a74c6dd741_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1944 USMC Officer Trousers - Orange",
+    "price": "$73.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1944-usmc-officer-trousers-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ebfcbaf9-a57a-4373-920e-f56ea26b68e8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s USCG Turtleneck Thermal - Black",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-uscg-turtleneck-thermal-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_f65d310f-8469-441e-ab9a-d40bb2077aac_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Ukiyo-e Tiger & Crane Pattern Aloha Shirt - Khaki",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/ukiyo-e-tiger-crane-pattern-aloha-shirt-khaki",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_3db18c89-72df-4ece-9635-d51df2cb4600_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Pre-War Model USN Woolen Sweater - Olive",
+    "price": "$69.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/pre-war-model-usn-woolen-sweater-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_397e98b9-70c3-45c9-9372-c4dcd5b8e6f8_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Lot 951 1950s Mechanic Coveralls Jumpsuit - White",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/lot-951-vintage-1950s-mechanic-coveralls-jumpsuit-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_254b5fa0-da4f-4c56-9f1c-2d80ed4a61d5_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "POW Indigo Denim Cap",
+    "price": "$32.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/pow-indigo-denim-cap",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_670fe951-e480-4c9e-bcb0-55958759d478_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Herringbone Wool and Polyester-Blend Quilted Padded Chore Jacket",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/retro-herringbone-wool-and-polyester-blend-quilted-padded-chore-jacket",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_56fdc383-f857-48a7-8a58-a5ab033049ed_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Navy Modified Deck Tools Bag - Navy",
+    "price": "$99.00  $109.00",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-navy-modified-deck-tools-bag-navy",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_9b69a135-b7cb-471a-9ab2-561c735bd5c4_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1980's Rip-Stop Nylon Trail Down Vest - Olive",
+    "price": "$115.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1980s-rip-stop-nylon-trail-down-vest-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_2e25b19f-e0e7-429f-ab7d-bd7e0220dcf1_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Devil-Dog Logo-Print Reverse Weave T-Shirt - White",
+    "price": "$28.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/devil-dog-logo-print-reverse-weave-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_a08e0d4f-bdad-432e-8b83-8be95105ee0d_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s USCG Turtleneck Thermal - White",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-uscg-turtleneck-thermal-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_ee7af054-710f-4fed-b342-b7e49955b0e0_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "US Army M-42 HBT Jacket",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/us-army-m-42-hbt-jacket-p-q-d-no-45b",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5abf6298-b9f5-455c-b40c-d60e20a20665_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1930s Heavyweight Canvas Game Pocket Hunting Vest - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1930s-heavyweight-canvas-game-pocket-hunting-vest-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_88f91fd2-b2a7-4e4b-bff9-8ffb1c6c7490_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Quarter-Zip Rider Printed Raglan Sleeve T-Shirt",
+    "price": "$39.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/printed-quarter-zip-raglan-sleeve-rider-t-shirt-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7b04a7f8-98c6-4da7-8449-59b974b0d244_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "WWI US Army Messenger Bag - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/wwi-us-army-vegetable-tanned-leather-canvas-messenger-bag-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_46dc59d5-b89b-4ebc-a929-9e48d9622e93_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Box Quilted Down Liner Jacket - Olive",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/collarless-box-quilted-down-liner-jacket-olive",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_4383b60a-1173-492d-b632-cf493ec96ba2_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "8.5 oz Cotton Ripstop Cargo Shorts - White",
+    "price": "$46.99  $52.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/8-5-oz-cotton-ripstop-cargo-loose-shorts-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_6e3a7690-8695-4ad1-82c6-9a631fa55ef9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Box Quilted Down Liner Jacket - Black",
+    "price": "$159.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/collarless-box-quilted-down-liner-jacket-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_53985266-30c1-4868-84e4-1dd3f9217dd3_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Logo-Appliqued Nylon Coach Jacket - Green",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/logo-appliqued-nylon-coach-jacket-green",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_08c6e5a6-0e9b-4814-bc30-9f09707813f9_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Logo-Appliqued Nylon Coach Jacket - Black",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/logo-appliqued-nylon-coach-jacket-black",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_8a44dce3-0abd-4a39-a20c-7a1648c52e78_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "Logo-Appliqued Nylon Coach Jacket - Orange",
+    "price": "$79.99",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/logo-appliqued-nylon-coach-jacket-orange",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_7c756486-9dec-422c-a49e-6b34b1e58033_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "British Army Bedford Cord Gurkha Bermuda Trousers - Olive",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/british-army-bedford-cord-gurkha-bermuda-trousers",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_272c288b-bc89-4b21-96fb-02c9a0e3448e_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "21 oz Navy Yard Instructor Reverse Weave Hoodie - Apricot",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/21-16-oz-navy-yard-instructor-reverse-weave-hoodie-apricot",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_dfa95a78-2427-4b1b-bfb3-6fc4d35277fc_1600x.jpg"
+  },
+  {
+    "brand": "Bronson MFG",
+    "title": "1950s US Army 14 oz Officer Chino Trousers - White",
+    "price": "Sold Out",
+    "itemURL": "https://bronsonshop.com/collections/clothing/products/1950s-us-army-14-oz-officer-chino-trousers-white",
+    "imagePath": "http://localhost:8080/../../images/bronson/1_5c27cfe1-fed1-401f-ba77-e0da6a2aebb0_1600x.jpg"
+  }
+]
