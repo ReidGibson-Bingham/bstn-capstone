@@ -37,7 +37,7 @@ const downloadImage = async (url, destPath) => {
     const browser = await puppeteer.launch({ headless: 'new' });
     const page = await browser.newPage();
 
-    for (let i = 1; i < 10; i++) {
+    for (let i = 1; i < 14; i++) {
 
         await page.goto(olderbestAllURL(i), { waitUntil: 'domcontentloaded' });
         await page.setViewport({ width: pageWidth, height: pageHeight });
