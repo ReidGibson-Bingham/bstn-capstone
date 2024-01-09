@@ -3,7 +3,7 @@ const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
 
-const productsPath = "./../../jsonData/oldBlueproducts.JSON";
+const productsPath = "./../../jsonData/oldBlueProducts.JSON";
 const imagesPath = "./../../images/oldBlue/";
 const pageHeight = 600;
 const pageWidth = 800;
