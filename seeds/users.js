@@ -11,7 +11,7 @@ exports.seed = async function(knex) {
         {
             username: 'Brainstation Is-Cool',
             email: 'brainstationiscool@gmail.com',
-            password: 'brainstationiscool',
+            password: 'brainstation',
             favourites: JSON.stringify([1, 3, 5]),
             history: JSON.stringify(['red shirt']),
         },
